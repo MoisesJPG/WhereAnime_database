@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Ruri no Houseki",
-      "episode": 5
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/ruri-no-houseki-5"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
