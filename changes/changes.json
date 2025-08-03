@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Gachiakuta",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/gachiakuta-4"
+      "animeTitle": "Busamen Gachi Fighter",
+      "episode": 5
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
