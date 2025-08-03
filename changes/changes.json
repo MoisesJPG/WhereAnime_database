@@ -2,13 +2,134 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [],
+  "removedEpisodes": [
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 12
+    }
+  ],
   "addedUrls": [
     {
-      "animeTitle": "Game Center Shoujo to Ibunka Kouryuu",
+      "animeTitle": "Busamen Gachi Fighter",
       "episode": 5,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/game-center-shoujo-to-ibunka-kouryuu/episodio-5"
+      "url": "https://www1.otakustv.com/anime/busamen-gachi-fighter/episodio-5"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/6"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/4"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 12,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/12"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 11,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/11"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 10,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/10"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 9,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/9"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 8,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/8"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/7"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/5"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/3"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/2"
+    },
+    {
+      "animeTitle": "Zombieland Saga: Revenge",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zombieland-saga-revenge/1"
     }
   ],
   "updatedUrls": [],
