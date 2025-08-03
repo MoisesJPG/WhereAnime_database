@@ -3,14 +3,14 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": [
+  "addedUrls": [
     {
       "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
       "episode": 1,
-      "page": "1",
-      "url": "1"
+      "page": "2",
+      "url": "2"
     }
-  ]
+  ],
+  "updatedUrls": [],
+  "removedUrls": []
 }
