@@ -1,19 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Dekichau made Kon",
-      "episode": 4
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Gachiakuta",
-      "episode": 4,
+      "animeTitle": "Game Center Shoujo to Ibunka Kouryuu",
+      "episode": 5,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/gachiakuta-4"
+      "url": "https://animefenix2.tv/ver/game-center-shoujo-to-ibunka-kouryuu-5"
     }
   ],
   "updatedUrls": [],
