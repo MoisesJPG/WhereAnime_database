@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Nyaight of the Living Cat",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/nyaight-of-the-living-cat-5"
+      "animeTitle": "Game Center Shoujo to Ibunka Kouryuu",
+      "episode": 5
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
