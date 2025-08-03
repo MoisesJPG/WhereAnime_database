@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Hotel Inhumans",
-      "episode": 5
+      "animeTitle": "One Piece",
+      "episode": 1138
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Hotel Inhumans",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/hotel-inhumans-5"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
