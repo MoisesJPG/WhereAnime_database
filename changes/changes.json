@@ -1,14 +1,19 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Dekichau made Kon",
+      "episode": 4
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Ruri no Houseki",
-      "episode": 5,
+      "animeTitle": "Gachiakuta",
+      "episode": 4,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ruri-no-houseki-5"
+      "url": "https://animefenix2.tv/ver/gachiakuta-4"
     }
   ],
   "updatedUrls": [],
