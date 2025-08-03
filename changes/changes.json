@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Nyaight of the Living Cat",
-      "episode": 5
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nyaight-of-the-living-cat-5"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
