@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/puniru-wa-kawaii-slime-17"
+      "animeTitle": "Dekin no Mogura",
+      "episode": 5
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
