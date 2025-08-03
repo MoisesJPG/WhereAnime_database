@@ -1,22 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Witch Watch",
-      "episode": 18
-    },
-    {
-      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
-      "episode": 5
+      "episode": 18,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/witch-watch-18"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
