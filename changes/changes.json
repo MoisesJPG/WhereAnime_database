@@ -1,16 +1,23 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
-      "episode": 1,
-      "page": "2",
-      "url": "2"
+      "animeTitle": "Tu Bian Yingxiong X",
+      "episode": 19
     }
   ],
-  "updatedUrls": [],
+  "removedEpisodes": [],
+  "addedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "Tu Bian Yingxiong X",
+      "episode": 18,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-18",
+      "oldTime": 1754206632000,
+      "newTime": 1754215418000
+    }
+  ],
   "removedUrls": []
 }
