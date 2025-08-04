@@ -1,67 +1,64 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3"
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
     }
   ],
   "removedAnime": [
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen"
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3"
     }
   ],
   "addedEpisodes": [
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
-      "episode": 2
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 1
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
       "episode": 1
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
-      "episode": 2,
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 1,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-kanketsuhen-2"
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
-      "episode": 2,
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 1,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/episodio-2"
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
-      "episode": 2,
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 1,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-kanketsu-hen-2"
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
       "episode": 1,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-kanketsuhen-1"
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
       "episode": 1,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/episodio-1"
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
       "episode": 1,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-kanketsu-hen-1"
-    },
-    {
-      "animeTitle": "Kijin Gentoushou",
-      "episode": 17,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/kijin-gentoushou-17"
     }
   ],
   "updatedUrls": [],
