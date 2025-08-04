@@ -5,10 +5,16 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Summer Pockets",
-      "episode": 18,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/summer-pockets/episodio-18"
+      "animeTitle": "Kijin Gentoushou",
+      "episode": 17,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/kijin-gentoushou-17"
+    },
+    {
+      "animeTitle": "Sakamoto Days Part 2",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/sakamoto-days-16"
     }
   ],
   "updatedUrls": [],
