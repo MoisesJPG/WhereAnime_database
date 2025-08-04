@@ -1,90 +1,63 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou (Latino)"
+      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya (Latino)"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa (Latino)"
     }
   ],
   "removedAnime": [
     {
-      "animeTitle": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou Latino"
+      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya Latino"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa Latino"
     }
   ],
   "addedEpisodes": [
     {
-      "animeTitle": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou (Latino)",
+      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya (Latino)",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa (Latino)",
       "episode": 1
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Shingeki no Kyojin Season 2",
-      "episode": 12,
+      "animeTitle": "Grand Blue Season 2",
+      "episode": 5,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-12"
+      "url": "https://animefenix2.tv/ver/grand-blue-season-2-5"
     },
     {
-      "animeTitle": "Shingeki no Kyojin Season 2",
-      "episode": 11,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-11"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou (Latino)",
+      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya (Latino)",
       "episode": 1,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2-movie-kakusei-no-houkou-latino/pelicula"
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-movie-1-guren-no-yumiya-latino/pelicula"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa (Latino)",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-latino/pelicula"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-movie-1-guren-no-yumiya-1"
     }
   ],
-  "updatedUrls": [
-    {
-      "animeTitle": "Shingeki no Kyojin Season 3 Part 2",
-      "episode": 10,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-part-2-10",
-      "oldTime": 10000,
-      "newTime": 1561932000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Season 3 Part 2",
-      "episode": 10,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3-part-2/episodio-10",
-      "oldTime": 10000,
-      "newTime": 1561932000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Season 3 Part 2",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-part-2-10",
-      "oldTime": 10000,
-      "newTime": 1561932000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Season 3 Part 2",
-      "episode": 9,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-part-2-9",
-      "oldTime": 9000,
-      "newTime": 1561327200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Season 3 Part 2",
-      "episode": 9,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3-part-2/episodio-9",
-      "oldTime": 9000,
-      "newTime": 1561327200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Season 3 Part 2",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-part-2-9",
-      "oldTime": 9000,
-      "newTime": 1561327200000
-    }
-  ],
+  "updatedUrls": [],
   "removedUrls": []
 }
