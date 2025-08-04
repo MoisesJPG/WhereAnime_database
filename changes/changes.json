@@ -3,7 +3,14 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Summer Pockets",
+      "episode": 18,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/summer-pockets/episodio-18"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
