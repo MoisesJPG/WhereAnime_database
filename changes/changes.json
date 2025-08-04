@@ -1,9 +1,21 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Food Court de, Mata Ashita.",
+      "episode": 5
+    }
+  ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "City The Animation",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/city-the-animation-5"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
