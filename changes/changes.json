@@ -4,23 +4,6 @@
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [
-    {
-      "animeTitle": "Ajin ga Osuki nan Desu ne",
-      "episode": 2,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/ajin-ga-osuki-nan-desu-ne-2",
-      "oldTime": 2000,
-      "newTime": 1749592800000
-    },
-    {
-      "animeTitle": "Ajin ga Osuki nan Desu ne",
-      "episode": 1,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/ajin-ga-osuki-nan-desu-ne-1",
-      "oldTime": 1000,
-      "newTime": 1744408800000
-    }
-  ],
+  "updatedUrls": [],
   "removedUrls": []
 }
