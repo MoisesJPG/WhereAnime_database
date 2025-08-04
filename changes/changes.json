@@ -1,298 +1,69 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedAnime": [
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 12,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-12",
-      "oldTime": 12000,
-      "newTime": 1648936800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 12,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-12",
-      "oldTime": 12000,
-      "newTime": 1648936800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 12,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-12",
-      "oldTime": 12000,
-      "newTime": 1648936800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 11,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-11",
-      "oldTime": 11000,
-      "newTime": 1647730800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 11,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-11",
-      "oldTime": 11000,
-      "newTime": 1647730800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 11,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-11",
-      "oldTime": 11000,
-      "newTime": 1647730800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 10,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-10",
-      "oldTime": 10000,
-      "newTime": 1647126000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 10,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-10",
-      "oldTime": 10000,
-      "newTime": 1647126000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-10",
-      "oldTime": 10000,
-      "newTime": 1647126000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 9,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-9",
-      "oldTime": 9000,
-      "newTime": 1646521200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 9,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-9",
-      "oldTime": 9000,
-      "newTime": 1646521200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-9",
-      "oldTime": 9000,
-      "newTime": 1646521200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-8",
-      "oldTime": 8000,
-      "newTime": 1645916400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 8,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-8",
-      "oldTime": 8000,
-      "newTime": 1645916400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-8",
-      "oldTime": 8000,
-      "newTime": 1645916400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-7",
-      "oldTime": 7000,
-      "newTime": 1645311600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 7,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-7",
-      "oldTime": 7000,
-      "newTime": 1645311600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-7",
-      "oldTime": 7000,
-      "newTime": 1645311600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-6",
-      "oldTime": 6000,
-      "newTime": 1644706800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 6,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-6",
-      "oldTime": 6000,
-      "newTime": 1644706800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-6",
-      "oldTime": 6000,
-      "newTime": 1644706800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-5",
-      "oldTime": 5000,
-      "newTime": 1644102000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 5,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-5",
-      "oldTime": 5000,
-      "newTime": 1644102000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-5",
-      "oldTime": 5000,
-      "newTime": 1644102000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-4",
-      "oldTime": 4000,
-      "newTime": 1643497200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 4,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-4",
-      "oldTime": 4000,
-      "newTime": 1643497200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-4",
-      "oldTime": 4000,
-      "newTime": 1643497200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 3,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-3",
-      "oldTime": 3000,
-      "newTime": 1642892400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 3,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-3",
-      "oldTime": 3000,
-      "newTime": 1642892400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-3",
-      "oldTime": 3000,
-      "newTime": 1642892400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-2",
-      "oldTime": 2000,
-      "newTime": 1642287600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 2,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-2",
-      "oldTime": 2000,
-      "newTime": 1642287600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-2",
-      "oldTime": 2000,
-      "newTime": 1642287600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-part-2-1",
-      "oldTime": 1000,
-      "newTime": 1641682800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-part-2/episodio-1",
-      "oldTime": 1000,
-      "newTime": 1641682800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 2",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-part-2-1",
-      "oldTime": 1000,
-      "newTime": 1641682800000
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3"
     }
   ],
+  "removedAnime": [
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen"
+    }
+  ],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 1
+    }
+  ],
+  "removedEpisodes": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-kanketsuhen-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/episodio-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-kanketsu-hen-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-kanketsuhen-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/episodio-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-kanketsu-hen-1"
+    },
+    {
+      "animeTitle": "Kijin Gentoushou",
+      "episode": 17,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kijin-gentoushou-17"
+    }
+  ],
+  "updatedUrls": [],
   "removedUrls": []
 }
