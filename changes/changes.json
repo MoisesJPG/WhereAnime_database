@@ -1,40 +1,35 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedAnime": [
     {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 11
+      "animeTitle": "Ajin (OVA)"
     }
   ],
+  "removedAnime": [
+    {
+      "animeTitle": "Ajin OVA"
+    }
+  ],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Ajin (OVA)",
+      "episode": 1
+    }
+  ],
+  "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-11"
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
+      "animeTitle": "Ajin (OVA)",
       "episode": 1,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-11"
-    }
-  ],
-  "updatedUrls": [
+      "url": "https://www3.animeflv.net/ver/ajin-ova-1"
+    },
     {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
-      "episode": 2,
+      "animeTitle": "Ajin (OVA)",
+      "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova-2",
-      "oldTime": 1548806400000,
-      "newTime": 1548802800000
+      "url": "https://animefenix2.tv/ver/ajin-ova-1"
     }
   ],
+  "updatedUrls": [],
   "removedUrls": []
 }
