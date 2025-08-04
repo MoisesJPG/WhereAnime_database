@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Food Court de, Mata Ashita.",
-      "episode": 5,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/food-court-de-mata-ashita/episodio-5"
+      "animeTitle": "Summer Pockets",
+      "episode": 18
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
