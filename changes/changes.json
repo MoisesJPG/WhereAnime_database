@@ -1,19 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Food Court de, Mata Ashita.",
-      "episode": 5
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "City The Animation",
+      "animeTitle": "Food Court de, Mata Ashita.",
       "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/city-the-animation-5"
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/food-court-de-mata-ashita/episodio-5"
     }
   ],
   "updatedUrls": [],
