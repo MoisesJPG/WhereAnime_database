@@ -2,200 +2,38 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [],
+  "removedEpisodes": [
+    {
+      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
+      "episode": 11
+    }
+  ],
+  "addedUrls": [
+    {
+      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-11"
+    },
+    {
+      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-11"
+    }
+  ],
   "updatedUrls": [
     {
       "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
       "episode": 2,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova-2",
-      "oldTime": 2000,
-      "newTime": 1548806400000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Ova",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova-1",
-      "oldTime": 1000,
-      "newTime": 1545346800000
-    },
-    {
-      "animeTitle": "Double Decker! Doug & Kirill: Extra",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/double-decker-doug-kirill-extra-2",
-      "oldTime": 2000,
-      "newTime": 1552172400000
-    },
-    {
-      "animeTitle": "Double Decker! Doug & Kirill: Extra",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/double-decker-doug-kirill-extra-1",
-      "oldTime": 1000,
-      "newTime": 1549753200000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 10,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-10",
-      "oldTime": 10000,
-      "newTime": 1545174000000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-10",
-      "oldTime": 10000,
-      "newTime": 1545174000000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 9,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-9",
-      "oldTime": 9000,
-      "newTime": 1543964400000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-9",
-      "oldTime": 9000,
-      "newTime": 1543964400000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-8",
-      "oldTime": 8000,
-      "newTime": 1543359600000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-8",
-      "oldTime": 8000,
-      "newTime": 1543359600000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-7",
-      "oldTime": 7000,
-      "newTime": 1542754800000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-7",
-      "oldTime": 7000,
-      "newTime": 1542754800000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-6",
-      "oldTime": 6000,
-      "newTime": 1542150000000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-6",
-      "oldTime": 6000,
-      "newTime": 1542150000000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-5",
-      "oldTime": 5000,
-      "newTime": 1541545200000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-5",
-      "oldTime": 5000,
-      "newTime": 1541545200000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-4",
-      "oldTime": 4000,
-      "newTime": 1540940400000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-4",
-      "oldTime": 4000,
-      "newTime": 1540940400000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 3,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-3",
-      "oldTime": 3000,
-      "newTime": 1540332000000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-3",
-      "oldTime": 3000,
-      "newTime": 1540332000000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-2",
-      "oldTime": 2000,
-      "newTime": 1539727200000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-2",
-      "oldTime": 2000,
-      "newTime": 1539727200000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-1",
-      "oldTime": 1000,
-      "newTime": 1539122400000
-    },
-    {
-      "animeTitle": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-1",
-      "oldTime": 1000,
-      "newTime": 1539122400000
+      "oldTime": 1548806400000,
+      "newTime": 1548802800000
     }
   ],
   "removedUrls": []
