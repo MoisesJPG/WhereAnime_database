@@ -3,158 +3,199 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Food Court de, Mata Ashita.",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/food-court-de-mata-ashita-5"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [
     {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 25,
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 12,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-25",
-      "oldTime": 25000,
-      "newTime": 1380405600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 25,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-25",
-      "oldTime": 24000,
-      "newTime": 1380405600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 24,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-24",
-      "oldTime": 24000,
-      "newTime": 1379800800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 24,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-24",
-      "oldTime": 23000,
-      "newTime": 1379800800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 23,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-23",
-      "oldTime": 23000,
-      "newTime": 1379196000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 23,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-23",
-      "oldTime": 22000,
-      "newTime": 1379196000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 22,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-22",
-      "oldTime": 22000,
-      "newTime": 1378591200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 22,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-22",
-      "oldTime": 21000,
-      "newTime": 1378591200000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 21,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-21",
-      "oldTime": 21000,
-      "newTime": 1377986400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 21,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-21",
-      "oldTime": 20000,
-      "newTime": 1377986400000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 20,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-20",
-      "oldTime": 20000,
-      "newTime": 1377381600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 20,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-20",
-      "oldTime": 19000,
-      "newTime": 1377381600000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 19,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-19",
-      "oldTime": 19000,
-      "newTime": 1376776800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 19,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-19",
-      "oldTime": 18000,
-      "newTime": 1376776800000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 18,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-18",
-      "oldTime": 18000,
-      "newTime": 1376172000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 18,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-18",
-      "oldTime": 17000,
-      "newTime": 1376172000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 13.5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-13.5",
-      "oldTime": 13000,
-      "newTime": 1373148000000
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 13.5,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-13-5",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-12",
       "oldTime": 12000,
-      "newTime": 1373148000000
+      "newTime": 1497650400000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 12,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-12",
+      "oldTime": 12000,
+      "newTime": 1497650400000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 11,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-11",
+      "oldTime": 11000,
+      "newTime": 1497045600000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 11,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-11",
+      "oldTime": 11000,
+      "newTime": 1497045600000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 10,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-10",
+      "oldTime": 10000,
+      "newTime": 1496440800000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 10,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-10",
+      "oldTime": 10000,
+      "newTime": 1496440800000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 9,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-9",
+      "oldTime": 9000,
+      "newTime": 1495836000000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 9,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-9",
+      "oldTime": 9000,
+      "newTime": 1495836000000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-8",
+      "oldTime": 8000,
+      "newTime": 1495231200000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 8,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-8",
+      "oldTime": 8000,
+      "newTime": 1495231200000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-7",
+      "oldTime": 7000,
+      "newTime": 1494626400000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 7,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-7",
+      "oldTime": 7000,
+      "newTime": 1494626400000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-6",
+      "oldTime": 6000,
+      "newTime": 1494021600000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 6,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-6",
+      "oldTime": 6000,
+      "newTime": 1494021600000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-5",
+      "oldTime": 5000,
+      "newTime": 1493416800000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 5,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-5",
+      "oldTime": 5000,
+      "newTime": 1493416800000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-4",
+      "oldTime": 4000,
+      "newTime": 1492812000000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-4",
+      "oldTime": 4000,
+      "newTime": 1492812000000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-3",
+      "oldTime": 3000,
+      "newTime": 1492207200000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-3",
+      "oldTime": 3000,
+      "newTime": 1492207200000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-2",
+      "oldTime": 2000,
+      "newTime": 1491602400000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-2",
+      "oldTime": 2000,
+      "newTime": 1491602400000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-1",
+      "oldTime": 1000,
+      "newTime": 1490997600000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-1",
+      "oldTime": 1000,
+      "newTime": 1490997600000
     }
   ],
   "removedUrls": []
