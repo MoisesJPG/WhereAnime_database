@@ -1,94 +1,218 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 4
-    }
-  ],
-  "removedEpisodes": [
-    {
-      "animeTitle": "One Piece",
-      "episode": 1120.5
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1133.5
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1128.5
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1122.5
-    }
-  ],
-  "addedUrls": [
-    {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-1"
-    }
-  ],
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [
     {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-5",
-      "oldTime": 1643929200000,
-      "newTime": 1661378640000
+      "animeTitle": "Tougen Anki",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/tougen-anki/episodio-4",
+      "oldTime": 1754064964000,
+      "newTime": 1754064000000
     },
     {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-8",
-      "oldTime": 8000,
-      "newTime": 1661378820000
+      "animeTitle": "Tougen Anki",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tougen-anki-4",
+      "oldTime": 1754064958000,
+      "newTime": 1754064000000
     },
     {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-7",
-      "oldTime": 7000,
-      "newTime": 1661378760000
+      "animeTitle": "Tougen Anki",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tougen-anki/4",
+      "oldTime": 1754064949000,
+      "newTime": 1754064000000
     },
     {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 6,
+      "animeTitle": "Tougen Anki",
+      "episode": 4,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-6",
-      "oldTime": 6000,
-      "newTime": 1661378700000
+      "url": "https://animefenix2.tv/ver/tougen-anki-4",
+      "oldTime": 1754064673000,
+      "newTime": 1754064000000
     },
     {
-      "animeTitle": "Rilakkuma to Yuuenchi",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-3",
-      "oldTime": 3000,
-      "newTime": 1661378520000
-    },
-    {
-      "animeTitle": "Rilakkuma to Yuuenchi",
+      "animeTitle": "Tougen Anki",
       "episode": 2,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-2",
-      "oldTime": 2000,
-      "newTime": 1661378460000
-    }
-  ],
-  "removedUrls": [
+      "url": "https://animefenix2.tv/ver/tougen-anki-2",
+      "oldTime": 1753097416000,
+      "newTime": 1752854400000
+    },
     {
-      "animeTitle": "Rilakkuma to Yuuenchi",
+      "animeTitle": "Tougen Anki",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/tougen-anki/episodio-2",
+      "oldTime": 1752921318000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tougen-anki/2",
+      "oldTime": 1752921314000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tougen-anki-2",
+      "oldTime": 1752921314000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/tougen-anki/episodio-1",
+      "oldTime": 1752249626000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tougen-anki-1",
+      "oldTime": 1752249622000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tougen-anki/1",
+      "oldTime": 1752249021000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Tougen Anki",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-4"
+      "url": "https://animefenix2.tv/ver/tougen-anki-1",
+      "oldTime": 1752249021000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tougen-anki-3",
+      "oldTime": 1753638922000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tougen-anki-3",
+      "oldTime": 3000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/tougen-anki/episodio-3",
+      "oldTime": 3000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tougen-anki/3",
+      "oldTime": 2000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nukitashi-the-animation-3",
+      "oldTime": 1754160650000,
+      "newTime": 1754074200000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/nukitashi-the-animation/episodio-3",
+      "oldTime": 1754088290000,
+      "newTime": 1754001840000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nukitashi-the-animation-1",
+      "oldTime": 1753097432000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/nukitashi-the-animation/episodio-1",
+      "oldTime": 1752921325000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nukitashi-the-animation-1",
+      "oldTime": 1752921320000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nukitashi-the-animation/1",
+      "oldTime": 1752921319000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nukitashi-the-animation-2",
+      "oldTime": 1753638939000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nukitashi-the-animation-2",
+      "oldTime": 2000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/nukitashi-the-animation/episodio-2",
+      "oldTime": 2000,
+      "newTime": 1753459200000
+    },
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nukitashi-the-animation/2",
+      "oldTime": 2000,
+      "newTime": 1753459200000
     }
-  ]
+  ],
+  "removedUrls": []
 }
