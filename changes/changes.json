@@ -1,61 +1,74 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya (Latino)"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa (Latino)"
-    }
-  ],
-  "removedAnime": [
-    {
-      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya Latino"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa Latino"
-    }
-  ],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya (Latino)",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa (Latino)",
-      "episode": 1
-    }
-  ],
+  "addedAnime": [],
+  "removedAnime": [],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Grand Blue Season 2",
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 10,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-10"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-9"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-8"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-7"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-6"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
       "episode": 5,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/grand-blue-season-2-5"
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-5"
     },
     {
-      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya (Latino)",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-movie-1-guren-no-yumiya-latino/pelicula"
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-4"
     },
     {
-      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa (Latino)",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-latino/pelicula"
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-3"
     },
     {
-      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+      "animeTitle": "Shingeki no Kyojin Season 2",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-1"
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-1"
     },
     {
-      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
-      "episode": 1,
+      "animeTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+      "episode": 5,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-movie-1-guren-no-yumiya-1"
+      "url": "https://animefenix2.tv/ver/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-5"
     }
   ],
   "updatedUrls": [],
