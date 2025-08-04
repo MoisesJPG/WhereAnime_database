@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Kijin Gentoushou",
-      "episode": 17,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/kijin-gentoushou/episodio-17"
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 1
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
