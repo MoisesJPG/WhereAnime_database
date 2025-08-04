@@ -2,37 +2,117 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [],
+  "removedEpisodes": [
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 26
+    }
+  ],
   "addedUrls": [
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 25,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-26"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 24,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-25"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 23,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-24"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 22,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-23"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 21,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-22"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 20,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-21"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 19,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-20"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 18,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-19"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 17,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-18"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 16,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-17"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 15,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-16"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 14,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-15"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 13.5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-14"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 13,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-13"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-8"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-6"
+    }
+  ],
+  "updatedUrls": [],
+  "removedUrls": [
     {
       "animeTitle": "Shingeki no Kyojin",
       "episode": 13,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-5"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 12,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-12"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 11,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-11"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-10"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-9"
     },
     {
       "animeTitle": "Shingeki no Kyojin",
@@ -42,27 +122,9 @@
     },
     {
       "animeTitle": "Shingeki no Kyojin",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-7"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
       "episode": 6,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-5"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-5"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-4"
     },
     {
       "animeTitle": "Shingeki no Kyojin",
@@ -141,26 +203,6 @@
       "episode": 25,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-5"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-3"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-2"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-1"
     }
-  ],
-  "updatedUrls": [],
-  "removedUrls": []
+  ]
 }
