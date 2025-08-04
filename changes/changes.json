@@ -1,66 +1,106 @@
 {
-  "addedAnime": [
+  "addedAnime": [],
+  "removedAnime": [],
+  "addedEpisodes": [],
+  "removedEpisodes": [
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen"
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 2
     },
     {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 25
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 24
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 23
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 22
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 21
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 20
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 19
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 18
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 17
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 16
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 3
     }
   ],
-  "removedAnime": [
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season Part 3"
-    }
-  ],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-      "episode": 1
-    }
-  ],
-  "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-kanketsuhen-2"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/episodio-2"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-kanketsu-hen-2"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-the-final-season-kanketsuhen-1"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/episodio-1"
-    },
-    {
-      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-the-final-season-kanketsu-hen-1"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
