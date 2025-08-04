@@ -1,16 +1,18 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Summer Pockets",
-      "episode": 18,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/summer-pockets-18"
+      "animeTitle": "Kijin Gentoushou",
+      "episode": 17
+    },
+    {
+      "animeTitle": "Sakamoto Days Part 2",
+      "episode": 5
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
