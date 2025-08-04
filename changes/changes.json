@@ -3,54 +3,64 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
+  "addedUrls": [],
+  "updatedUrls": [
     {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 15,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-15"
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 14,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-14"
+      "animeTitle": "Shingeki no Kyojin: Requiem",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-2",
+      "oldTime": 2000,
+      "newTime": 1365890400000
     },
     {
       "animeTitle": "Shingeki no Kyojin",
       "episode": 1,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-1"
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-1",
+      "oldTime": 1365804000000,
+      "newTime": 1365285600000
     },
     {
       "animeTitle": "Shingeki no Kyojin",
       "episode": 1,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-1"
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-1",
+      "oldTime": 1365804000000,
+      "newTime": 1365285600000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-3",
+      "oldTime": 2000,
+      "newTime": 1366495200000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-3",
+      "oldTime": 1000,
+      "newTime": 1366495200000
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-2",
+      "oldTime": 1000,
+      "newTime": 1365890400000
     },
     {
       "animeTitle": "Shingeki no Kyojin",
       "episode": 2,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-2"
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin/episodio-2",
+      "oldTime": null,
+      "newTime": 1365890400000
     }
   ],
-  "updatedUrls": [
-    {
-      "animeTitle": "Shingeki no Kyojin: Requiem",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-requiem-1",
-      "oldTime": 1000,
-      "newTime": 1365804000000
-    }
-  ],
-  "removedUrls": [
-    {
-      "animeTitle": "Shingeki no Kyojin",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-2"
-    }
-  ]
+  "removedUrls": []
 }
