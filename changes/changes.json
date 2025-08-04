@@ -1,26 +1,94 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Lord of Mysteries",
-      "episode": 6,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/lord-of-mysteries/episodio-6",
-      "oldTime": 6000,
-      "newTime": 1749894900000
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 4
+    }
+  ],
+  "removedEpisodes": [
+    {
+      "animeTitle": "One Piece",
+      "episode": 1120.5
     },
     {
       "animeTitle": "One Piece",
-      "episode": 1120.5,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/one-piece/episodio-1120-5",
-      "oldTime": 4000,
-      "newTime": 1726956000000
+      "episode": 1133.5
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1128.5
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1122.5
     }
   ],
-  "removedUrls": []
+  "addedUrls": [
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-1"
+    }
+  ],
+  "updatedUrls": [
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-5",
+      "oldTime": 1643929200000,
+      "newTime": 1661378640000
+    },
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-8",
+      "oldTime": 8000,
+      "newTime": 1661378820000
+    },
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-7",
+      "oldTime": 7000,
+      "newTime": 1661378760000
+    },
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-6",
+      "oldTime": 6000,
+      "newTime": 1661378700000
+    },
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-3",
+      "oldTime": 3000,
+      "newTime": 1661378520000
+    },
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-2",
+      "oldTime": 2000,
+      "newTime": 1661378460000
+    }
+  ],
+  "removedUrls": [
+    {
+      "animeTitle": "Rilakkuma to Yuuenchi",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rilakkuma-to-yuuenchi-4"
+    }
+  ]
 }
