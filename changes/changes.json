@@ -2,15 +2,177 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "removedEpisodes": [
     {
-      "animeTitle": "Kakkou no Iinazuke 2nd Season",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/kakkou-no-iinazuke-season-2-5"
+      "animeTitle": "Los Simpsons",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Los Simpsons",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Coraje el Perro Cobarde",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Futurama",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Breaking Bad",
+      "episode": 1
     }
   ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
