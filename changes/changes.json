@@ -2,13 +2,18 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [],
+  "removedEpisodes": [
+    {
+      "animeTitle": "Kaijuu 8-gou Movie",
+      "episode": 0
+    }
+  ],
   "addedUrls": [
     {
-      "animeTitle": "Turkey!",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/turkey-5"
+      "animeTitle": "Kaijuu 8-gou Movie",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kaijuu-8-gou-movie/0"
     }
   ],
   "updatedUrls": [],
