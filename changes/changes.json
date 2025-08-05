@@ -1,177 +1,114 @@
 {
   "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "removedAnime": [
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 13
+      "animeTitle": "Yuusha Party o Tsuihou Sareta Shiro Madoushi"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 12
+      "animeTitle": "0-saiji Start Dash Monogatari Season 2"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 11
+      "animeTitle": "Shuumatsu no Harem Sin Censura 1080p"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 10
+      "animeTitle": "Shuumatsu no Harem Versión Extendida 1080p"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 9
+      "animeTitle": "Hataraku Onii-san!"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 8
+      "animeTitle": "Hataraku Onii-san! Temporada 2"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 7
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 6
+      "animeTitle": "Beyblade"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 5
+      "animeTitle": "Sailor Moon"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 4
+      "animeTitle": "Fate/stay night Movie: Unlimited Blade Works"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 3
+      "animeTitle": "Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 2
+      "animeTitle": "Obsolete"
     },
     {
-      "animeTitle": "Los Simpsons",
-      "episode": 1
+      "animeTitle": "Arad: Gyakuten no Gear"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 13
+      "animeTitle": "Amnesia"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 12
+      "animeTitle": "Hyakka Ryouran: Samurai Bride"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 11
+      "animeTitle": "Kimi no Iru Machi"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 10
+      "animeTitle": "Yami Shibai"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 9
+      "animeTitle": "Kamisama Minarai: Himitsu no Cocotama"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 8
+      "animeTitle": "Ragnastrike Angels"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 7
+      "animeTitle": "Hakuouki: Otogisoushi"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 6
+      "animeTitle": "Mahou Shoujo? Naria☆Girls"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 5
+      "animeTitle": "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 4
+      "animeTitle": "Onipan!"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 3
+      "animeTitle": "Sunohara-sou no Kanrinin-san"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 2
+      "animeTitle": "Naruto (Shinsaku Anime)"
     },
     {
-      "animeTitle": "Coraje el Perro Cobarde",
-      "episode": 1
+      "animeTitle": "Ame-iro Cocoa in Hawaii"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 9
+      "animeTitle": "Ganbare! Nakamura-kun!!"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 8
+      "animeTitle": "Boku no Hero Academia: Final Season"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 7
+      "animeTitle": "Virgin Punk"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 6
+      "animeTitle": "Chitose-kun wa Ramune Bin no Naka"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 5
+      "animeTitle": "Fumetsu no Anata e Season 3"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 4
+      "animeTitle": "Niwatori Fighter"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 3
+      "animeTitle": "Muchuu sa, Kimi ni."
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 2
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
     },
     {
-      "animeTitle": "Futurama",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Breaking Bad",
-      "episode": 1
+      "animeTitle": "Seihantai na Kimi to Boku"
     }
   ],
+  "addedEpisodes": [],
+  "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
