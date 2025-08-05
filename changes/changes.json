@@ -3,7 +3,9 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
+  "addedUrls": [],
+  "updatedUrls": [],
+  "removedUrls": [
     {
       "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
       "episode": 1,
@@ -16,7 +18,5 @@
       "page": "1",
       "url": "1"
     }
-  ],
-  "updatedUrls": [],
-  "removedUrls": []
+  ]
 }
