@@ -2,20 +2,24 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [
+  "removedEpisodes": [],
+  "addedUrls": [],
+  "updatedUrls": [
     {
-      "animeTitle": "Kaijuu 8-gou Movie",
-      "episode": 0
-    }
-  ],
-  "addedUrls": [
-    {
-      "animeTitle": "Kaijuu 8-gou Movie",
+      "animeTitle": "Turkey!",
       "episode": 1,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/kaijuu-8-gou-movie/0"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/turkey-1",
+      "oldTime": 1000,
+      "newTime": 1752188700000
     }
   ],
-  "updatedUrls": [],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "Turkey!",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/turkey-2"
+    }
+  ]
 }
