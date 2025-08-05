@@ -7,10 +7,40 @@
     {
       "animeTitle": "Mattaku Saikin no Tantei to Kitara",
       "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/mattaku-saikin-no-tantei-to-kitara-6"
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/mattaku-saikin-no-tantei-to-kitara/episodio-6"
     }
   ],
-  "updatedUrls": [],
-  "removedUrls": []
+  "updatedUrls": [
+    {
+      "animeTitle": "Mattaku Saikin no Tantei to Kitara",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mattaku-saikin-no-tantei-to-kitara-3",
+      "oldTime": 3000,
+      "newTime": 1752653400000
+    },
+    {
+      "animeTitle": "Mattaku Saikin no Tantei to Kitara",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mattaku-saikin-no-tantei-to-kitara-1",
+      "oldTime": 1000,
+      "newTime": 1752188700000
+    }
+  ],
+  "removedUrls": [
+    {
+      "animeTitle": "Mattaku Saikin no Tantei to Kitara",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mattaku-saikin-no-tantei-to-kitara-1"
+    },
+    {
+      "animeTitle": "Mattaku Saikin no Tantei to Kitara",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mattaku-saikin-no-tantei-to-kitara-3"
+    }
+  ]
 }
