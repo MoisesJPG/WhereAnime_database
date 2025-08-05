@@ -1,22 +1,16 @@
 {
   "addedAnime": [],
-  "removedAnime": [
-    {
-      "animeTitle": "Breaking Bad"
-    },
-    {
-      "animeTitle": "Futurama"
-    },
-    {
-      "animeTitle": "Coraje el Perro Cobarde"
-    },
-    {
-      "animeTitle": "Los Simpsons"
-    }
-  ],
+  "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Osomatsu-san 4th Season",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/osomatsu-san-4th-season/5"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
