@@ -1,7 +1,12 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Kanojo, Okarishimasu 4th Season",
+      "episode": 6
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
