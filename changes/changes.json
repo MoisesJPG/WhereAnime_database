@@ -2,143 +2,54 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 26
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 25
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 24
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 23
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 22
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 21
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 20
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 19
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 18
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 17
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 16
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 15
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 14
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 13
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 6
-    }
-  ],
+  "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [
     {
-      "animeTitle": "Turkey!",
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
       "episode": 2,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/turkey-2",
+      "url": "https://animefenix2.tv/ver/dainanaoji-2nd-season-2",
       "oldTime": 2000,
-      "newTime": 1752653400000
+      "newTime": 1752753900000
     },
     {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/osomatsu-san-4th-season-2",
-      "oldTime": 2000,
-      "newTime": 1752653400000
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-13",
+      "oldTime": 1752188708000,
+      "newTime": 1752188700000
     },
     {
-      "animeTitle": "Osomatsu-san 4th Season",
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/episodio-1",
+      "oldTime": 1752188708000,
+      "newTime": 1752188700000
+    },
+    {
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/osomatsu-san-4th-season-1",
+      "url": "https://animefenix2.tv/ver/dainanaoji-2nd-season-1",
       "oldTime": 1000,
       "newTime": 1752188700000
     }
   ],
   "removedUrls": [
     {
-      "animeTitle": "Turkey!",
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
       "episode": 2,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/turkey-1"
+      "url": "https://animefenix2.tv/ver/dainanaoji-2nd-season-1"
     },
     {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/osomatsu-san-5"
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/osomatsu-san-4th-season-1"
-    },
-    {
-      "animeTitle": "Osomatsu-san 4th Season",
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/osomatsu-san-4th-season-2"
+      "url": "https://animefenix2.tv/ver/dainanaoji-2nd-season-2"
     }
   ]
 }
