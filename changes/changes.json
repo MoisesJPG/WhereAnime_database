@@ -2,73 +2,48 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [],
+  "removedEpisodes": [
+    {
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube (2025)",
+      "episode": 6
+    }
+  ],
   "addedUrls": [],
-  "updatedUrls": [
-    {
-      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-17",
-      "oldTime": 1754500522000,
-      "newTime": 1754500822000
-    },
-    {
-      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
-      "episode": 5,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/5",
-      "oldTime": 1754500519000,
-      "newTime": 1754500819000
-    },
+  "updatedUrls": [],
+  "removedUrls": [
     {
       "animeTitle": "New Panty & Stocking with Garterbelt",
       "episode": 5,
       "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/new-panty-stocking-with-garterbelt/5",
-      "oldTime": 1754500518000,
-      "newTime": 1754500818000
+      "url": "https://animeav1.com/media/new-panty-stocking-with-garterbelt/5"
     },
     {
       "animeTitle": "Tate no Yuusha no Nariagari Season 4",
       "episode": 5,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5",
-      "oldTime": 1754500548000,
-      "newTime": 1754500848000
-    },
-    {
-      "animeTitle": "Jigoku Sensei Nube (2025)",
-      "episode": 6,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/jigoku-sensei-nube-2025/6",
-      "oldTime": 1754500520000,
-      "newTime": 1754500820000
+      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5"
     },
     {
       "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
       "episode": 6,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6",
-      "oldTime": 1754500549000,
-      "newTime": 1754500849000
+      "url": "https://animefenix2.tv/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6"
     },
     {
       "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
       "episode": 6,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6",
-      "oldTime": 1754500521000,
-      "newTime": 1754500821000
+      "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6"
     },
     {
       "animeTitle": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
       "episode": 6,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/clevatess-6",
-      "oldTime": 1754500547000,
-      "newTime": 1754500847000
+      "url": "https://animefenix2.tv/ver/clevatess-6"
     }
-  ],
-  "removedUrls": []
+  ]
 }
