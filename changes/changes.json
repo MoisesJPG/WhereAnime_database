@@ -6,36 +6,20 @@
   "addedUrls": [],
   "updatedUrls": [
     {
-      "animeTitle": "One Piece",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/one-piece/episodio-1",
-      "oldTime": -3600000,
-      "newTime": -31539480000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-1",
-      "oldTime": -31539540000,
-      "newTime": -3600000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/suisei-no-gargantia-1",
-      "oldTime": -31539540000,
-      "newTime": -3600000
-    },
-    {
       "animeTitle": "Zombieland Saga Revenge",
       "episode": 1,
       "page": "1",
       "url": "1",
-      "oldTime": -31539600000,
-      "newTime": -31539360000
+      "oldTime": -31539360000,
+      "newTime": -31539420000
+    },
+    {
+      "animeTitle": "Suisei no Gargantia",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
+      "oldTime": -31539540000,
+      "newTime": -31539480000
     }
   ],
   "removedUrls": []
