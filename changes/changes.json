@@ -1,58 +1,48 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Zombieland Saga Revenge",
-      "episode": 1
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 1,
+      "page": "1",
+      "url": "1",
+      "oldTime": -31539540000,
+      "newTime": -31539480000
+    },
     {
       "animeTitle": "Suisei no Gargantia",
       "episode": 1,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/suisei-no-gargantia-1",
-      "oldTime": 1000,
-      "newTime": -31539600000
+      "oldTime": -31539600000,
+      "newTime": -31539540000
     },
     {
       "animeTitle": "Suisei no Gargantia",
       "episode": 1,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-1",
-      "oldTime": 1000,
-      "newTime": -31539600000
+      "oldTime": -31539600000,
+      "newTime": -31539540000
     },
     {
       "animeTitle": "Suisei no Gargantia",
       "episode": 1,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
-      "oldTime": 1000,
-      "newTime": -31539600000
-    },
-    {
-      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hokuto-no-ken-raoh-gaiden-gekitou-hen-1",
-      "oldTime": 1000,
-      "newTime": 86400000
-    },
-    {
-      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
-      "episode": 1,
-      "page": "2",
-      "url": "2",
-      "oldTime": null,
-      "newTime": 86400000
+      "oldTime": -31539600000,
+      "newTime": -31539540000
     }
   ],
   "removedUrls": []
