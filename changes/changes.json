@@ -3,104 +3,14 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedUrls": [
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "New Panty & Stocking with Garterbelt",
       "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5",
-      "oldTime": 1754496349000,
-      "newTime": 1754496948000
-    },
-    {
-      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6",
-      "oldTime": 1754496649000,
-      "newTime": 1754496949000
-    },
-    {
-      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6",
-      "oldTime": 1754494222000,
-      "newTime": 1754496922000
-    },
-    {
-      "animeTitle": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/clevatess-6",
-      "oldTime": 1754495749000,
-      "newTime": 1754496947000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-1",
-      "oldTime": -3600000,
-      "newTime": -31539540000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/suisei-no-gargantia-1",
-      "oldTime": -3600000,
-      "newTime": -31539540000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
-      "oldTime": -31539420000,
-      "newTime": -31539540000
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1,
       "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/one-piece/1",
-      "oldTime": -3600000,
-      "newTime": 0
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
-      "oldTime": -3600000,
-      "newTime": -31539600000
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/one-piece-tv-1",
-      "oldTime": -3600000,
-      "newTime": 0
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/one-piece/episodio-1",
-      "oldTime": -31539480000,
-      "newTime": 0
-    },
-    {
-      "animeTitle": "Zombieland Saga Revenge",
-      "episode": 1,
-      "page": "1",
-      "url": "1",
-      "oldTime": -31539540000,
-      "newTime": -31539600000
+      "url": "https://animeav1.com/media/new-panty-stocking-with-garterbelt/5"
     }
   ],
+  "updatedUrls": [],
   "removedUrls": []
 }
