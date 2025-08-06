@@ -3,100 +3,40 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 6,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/onmyou-kaiten-re-birth/episodio-5"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [
     {
       "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/onmyou-kaiten-rebirth-4",
-      "oldTime": 1753308619000,
-      "newTime": 1753297200000
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/onmyou-kaiten-re-birth-3",
-      "oldTime": 1753097401000,
-      "newTime": 1752665400000
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 3,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/onmyou-kaiten-re-birth/episodio-3",
-      "oldTime": 1752753920000,
-      "newTime": 1752667500000
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 3,
+      "episode": 1,
       "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/onmyou-kaiten-rebirth/3",
-      "oldTime": 1752753919000,
-      "newTime": 1752667500000
+      "url": "https://animeav1.com/media/onmyou-kaiten-rebirth/1",
+      "oldTime": 5000,
+      "newTime": 1751407200000
     },
     {
       "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 3,
+      "episode": 1,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/onmyou-kaiten-rebirth-3",
-      "oldTime": 1752753917000,
-      "newTime": 1752667500000
+      "url": "https://www3.animeflv.net/ver/onmyou-kaiten-rebirth-1",
+      "oldTime": 1000,
+      "newTime": 1751407200000
     },
     {
       "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 2,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/onmyou-kaiten-rebirth/2",
-      "oldTime": 1752188712000,
-      "newTime": 1752015900000
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 2,
+      "episode": 1,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/onmyou-kaiten-re-birth/episodio-2",
-      "oldTime": 1752188712000,
-      "newTime": 1752015900000
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/onmyou-kaiten-rebirth-2",
-      "oldTime": 1752188711000,
-      "newTime": 1752015900000
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/onmyou-kaiten-re-birth-2",
-      "oldTime": 2000,
-      "newTime": 1752015900000
-    }
-  ],
-  "removedUrls": [
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/onmyou-kaiten-re-birth-1"
+      "url": "https://www1.otakustv.com/anime/onmyou-kaiten-re-birth/episodio-1",
+      "oldTime": 1000,
+      "newTime": 1751407200000
     },
     {
       "animeTitle": "Onmyou Kaiten Re:Birth",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/onmyou-kaiten-re-birth-2"
+      "url": "https://animefenix2.tv/ver/onmyou-kaiten-re-birth-1",
+      "oldTime": 1000,
+      "newTime": 1751407200000
     }
-  ]
+  ],
+  "removedUrls": []
 }
