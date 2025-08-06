@@ -1,20 +1,22 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedEpisodes": [
     {
       "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
       "episode": 5
+    },
+    {
+      "animeTitle": "Mikadono Sanshimai wa Angai, Choroi.",
+      "episode": 6
     },
     {
       "animeTitle": "Jigoku Sensei Nube (2025)",
       "episode": 6
     }
   ],
-  "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": [
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "New Panty & Stocking with Garterbelt",
       "episode": 5,
@@ -45,5 +47,7 @@
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/clevatess-6"
     }
-  ]
+  ],
+  "updatedUrls": [],
+  "removedUrls": []
 }
