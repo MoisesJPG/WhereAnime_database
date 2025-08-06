@@ -1,57 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Jigoku Sensei Nube (2025)",
+      "episode": 6
+    }
+  ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-17"
-    }
-  ],
-  "updatedUrls": [
-    {
-      "animeTitle": "Zombieland Saga Revenge",
-      "episode": 1,
-      "page": "1",
-      "url": "1",
-      "oldTime": -31539360000,
-      "newTime": -31539540000
-    },
-    {
-      "animeTitle": "One Piece",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
-      "oldTime": -31539420000,
-      "newTime": -31539480000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
-      "oldTime": -31539540000,
-      "newTime": -3540000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-1",
-      "oldTime": -31539540000,
-      "newTime": -31539420000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/suisei-no-gargantia-1",
-      "oldTime": -31539540000,
-      "newTime": -3540000
-    }
-  ],
+  "addedUrls": [],
+  "updatedUrls": [],
   "removedUrls": []
 }
