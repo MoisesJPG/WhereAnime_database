@@ -1,7 +1,12 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "episode": 5
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
