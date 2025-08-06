@@ -4,6 +4,39 @@
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/one-piece/1",
+      "oldTime": 1066060968000,
+      "newTime": 946681200000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/one-piece-tv-1",
+      "oldTime": 1066060968000,
+      "newTime": 946681200000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/one-piece/episodio-1",
+      "oldTime": 1066060968000,
+      "newTime": 946681200000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
+      "oldTime": 1066060968000,
+      "newTime": 946681200000
+    }
+  ],
   "removedUrls": []
 }
