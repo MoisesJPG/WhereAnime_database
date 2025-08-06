@@ -5,10 +5,10 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 5,
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "episode": 6,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5"
+      "url": "https://animefenix2.tv/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6"
     }
   ],
   "updatedUrls": [
@@ -17,24 +17,16 @@
       "episode": 1,
       "page": "1",
       "url": "1",
-      "oldTime": -31539420000,
-      "newTime": -31539480000
+      "oldTime": -31539480000,
+      "newTime": -31539540000
     },
     {
       "animeTitle": "One Piece",
       "episode": 1,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/one-piece/episodio-1",
-      "oldTime": -31539480000,
-      "newTime": -31539540000
-    },
-    {
-      "animeTitle": "Suisei no Gargantia",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
-      "oldTime": -31539480000,
-      "newTime": -31539420000
+      "oldTime": -31539540000,
+      "newTime": -31539480000
     }
   ],
   "removedUrls": []
