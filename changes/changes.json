@@ -4,6 +4,52 @@
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": []
+  "updatedUrls": [
+    {
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/necronomico-no-cosmic-horror-show/episodio-2",
+      "oldTime": 1752188702000,
+      "newTime": 1752271200000
+    },
+    {
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/necronomico-no-cosmic-horror-show/1",
+      "oldTime": 5000,
+      "newTime": 1752271200000
+    },
+    {
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/necronomico-no-cosmic-horror-show-1",
+      "oldTime": 1000,
+      "newTime": 1752271200000
+    },
+    {
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/necronomico-no-cosmic-horror-show-1",
+      "oldTime": 1000,
+      "newTime": 1752271200000
+    }
+  ],
+  "removedUrls": [
+    {
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/necronomico-no-cosmic-horror-show-1"
+    },
+    {
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/necronomico-no-cosmic-horror-show-3"
+    }
+  ]
 }
