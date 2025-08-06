@@ -1,41 +1,58 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 1
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [
     {
-      "animeTitle": "One Piece",
-      "episode": 1,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/one-piece/1",
-      "oldTime": -1645260000,
-      "newTime": 0
-    },
-    {
-      "animeTitle": "One Piece",
+      "animeTitle": "Suisei no Gargantia",
       "episode": 1,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/one-piece-tv-1",
-      "oldTime": -1645260000,
-      "newTime": 0
+      "url": "https://www3.animeflv.net/ver/suisei-no-gargantia-1",
+      "oldTime": 1000,
+      "newTime": -31539600000
     },
     {
-      "animeTitle": "One Piece",
+      "animeTitle": "Suisei no Gargantia",
       "episode": 1,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/one-piece/episodio-1",
-      "oldTime": -1645260000,
-      "newTime": 0
+      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-1",
+      "oldTime": 1000,
+      "newTime": -31539600000
     },
     {
-      "animeTitle": "One Piece",
+      "animeTitle": "Suisei no Gargantia",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
-      "oldTime": -1645260000,
-      "newTime": 0
+      "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
+      "oldTime": 1000,
+      "newTime": -31539600000
+    },
+    {
+      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hokuto-no-ken-raoh-gaiden-gekitou-hen-1",
+      "oldTime": 1000,
+      "newTime": 86400000
+    },
+    {
+      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+      "episode": 1,
+      "page": "2",
+      "url": "2",
+      "oldTime": null,
+      "newTime": 86400000
     }
   ],
   "removedUrls": []
