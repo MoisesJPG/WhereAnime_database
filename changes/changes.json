@@ -3,23 +3,47 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
-    {
-      "animeTitle": "Zombieland Saga Revenge",
-      "episode": 1,
-      "page": "1",
-      "url": "1",
-      "oldTime": -31539480000,
-      "newTime": -31539600000
-    }
-  ],
-  "removedUrls": [
+  "addedUrls": [
     {
       "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
       "episode": 6,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6"
     }
-  ]
+  ],
+  "updatedUrls": [
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/one-piece/1",
+      "oldTime": 0,
+      "newTime": -3600000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/one-piece-tv-1",
+      "oldTime": 0,
+      "newTime": -3600000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/one-piece/episodio-1",
+      "oldTime": 0,
+      "newTime": -3600000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
+      "oldTime": 0,
+      "newTime": -3600000
+    }
+  ],
+  "removedUrls": []
 }
