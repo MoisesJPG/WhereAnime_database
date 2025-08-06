@@ -1,11 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 5
+    }
+  ],
   "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": [
+  "addedUrls": [
     {
       "animeTitle": "New Panty & Stocking with Garterbelt",
       "episode": 5,
@@ -36,5 +39,24 @@
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/clevatess-6"
     }
-  ]
+  ],
+  "updatedUrls": [
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
+      "oldTime": -31539600000,
+      "newTime": -31539420000
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 1,
+      "page": "1",
+      "url": "1",
+      "oldTime": -31539600000,
+      "newTime": -31539360000
+    }
+  ],
+  "removedUrls": []
 }
