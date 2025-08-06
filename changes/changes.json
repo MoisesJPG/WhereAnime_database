@@ -1,14 +1,114 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Jigoku Sensei Nube (2025)",
-      "episode": 6
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-17",
+      "oldTime": 1754499922000,
+      "newTime": 1754500522000
+    },
+    {
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/5",
+      "oldTime": 1754499320000,
+      "newTime": 1754500519000
+    },
+    {
+      "animeTitle": "New Panty & Stocking with Garterbelt",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/new-panty-stocking-with-garterbelt/5",
+      "oldTime": 1754499319000,
+      "newTime": 1754500518000
+    },
+    {
+      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5",
+      "oldTime": 1754499348000,
+      "newTime": 1754500548000
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube (2025)",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jigoku-sensei-nube-2025/6",
+      "oldTime": 1754500226000,
+      "newTime": 1754500520000
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6",
+      "oldTime": 1754499349000,
+      "newTime": 1754500549000
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season-6",
+      "oldTime": 1754499322000,
+      "newTime": 1754500521000
+    },
+    {
+      "animeTitle": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/clevatess-6",
+      "oldTime": 1754499347000,
+      "newTime": 1754500547000
+    },
+    {
+      "animeTitle": "Suisei no Gargantia",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/suisei-no-gargantia-1",
+      "oldTime": -3540000,
+      "newTime": -31539540000
+    },
+    {
+      "animeTitle": "Suisei no Gargantia",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/suisei-no-gargantia-1",
+      "oldTime": -3540000,
+      "newTime": -31539540000
+    },
+    {
+      "animeTitle": "Suisei no Gargantia",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/suisei-no-gargantia/episodio-1",
+      "oldTime": -31539420000,
+      "newTime": -31539540000
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/one-piece-tv-1136",
+      "oldTime": -31539480000,
+      "newTime": -31539600000
+    },
+    {
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 1,
+      "page": "1",
+      "url": "1",
+      "oldTime": -31539540000,
+      "newTime": -31539600000
+    }
+  ],
   "removedUrls": []
 }
