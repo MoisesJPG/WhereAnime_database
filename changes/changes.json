@@ -1,21 +1,27 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [
     {
-      "animeTitle": "Kizu darake Seijo yori Houfuku wo Komete",
-      "episode": 5
+      "animeTitle": "Zombieland Saga Revenge",
+      "episode": 1
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Jigoku Sensei Nube (2025)",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/jigoku-sensei-nube-2025-6"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+      "episode": 1,
+      "page": "2",
+      "url": "2"
+    },
+    {
+      "animeTitle": "Nekopara (TV)",
+      "episode": 1,
+      "page": "HentaiLA",
+      "url": "https://www5.hentaila.com//ver/nekopara-1"
+    }
+  ]
 }
