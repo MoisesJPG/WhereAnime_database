@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tsuihousha-shokudou-e-youkoso-6"
+      "animeTitle": "Dandadan 2nd Season",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
