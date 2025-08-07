@@ -1,14 +1,19 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Futari Solo Camp",
+      "episode": 5
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
       "animeTitle": "Dandadan 2nd Season",
       "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/dandadan-2nd-season-6"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/dandadan-2nd-season-6"
     }
   ],
   "updatedUrls": [],
