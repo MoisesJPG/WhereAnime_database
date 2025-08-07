@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
       "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/kamitsubakishi-kensetsuchuu-5"
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
