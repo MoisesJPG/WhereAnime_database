@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Dandadan 2nd Season",
-      "episode": 6
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/dandadan-2nd-season-6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
