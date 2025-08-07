@@ -1,53 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Nekopara",
-      "episode": 1,
-      "page": "HentaiLA",
-      "url": "https://hentaila.com/ver/nekopara-1"
-    },
-    {
-      "animeTitle": "Nekopara",
-      "episode": 2,
-      "page": "HentaiLA",
-      "url": "https://hentaila.com/ver/nekopara-2"
-    },
-    {
-      "animeTitle": "Nekopara OVA",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/nekopara-1"
-    },
-    {
-      "animeTitle": "Nekopara OVA",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/nekopara-2"
+      "animeTitle": "Karaoke Iko!",
+      "episode": 3
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
-  "removedUrls": [
-    {
-      "animeTitle": "Nekopara (TV)",
-      "episode": 2,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/nekopara-2"
-    },
-    {
-      "animeTitle": "Nekopara",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/nekopara-2"
-    },
-    {
-      "animeTitle": "Nekopara",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/nekopara-1"
-    }
-  ]
+  "removedUrls": []
 }
