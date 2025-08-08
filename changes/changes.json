@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Yofukashi no Uta Season 2",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-6"
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 4
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
