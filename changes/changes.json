@@ -1,14 +1,22 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
-      "episode": 6
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/watari-kun-no-xx-ga-houkai-sunzen-6"
+    },
+    {
+      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/watarikun-no-xx-ga-houkai-sunzen-6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
