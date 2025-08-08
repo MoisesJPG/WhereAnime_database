@@ -1,14 +1,22 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-      "episode": 6
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-6"
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/silent-witch-chinmoku-no-majo-no-kakushigoto/6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
