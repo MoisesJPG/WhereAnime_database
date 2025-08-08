@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Yofukashi no Uta Season 2",
+      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
       "episode": 6
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Yofukashi no Uta Season 2",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/6"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
