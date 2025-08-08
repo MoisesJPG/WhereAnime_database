@@ -1,22 +1,57 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
-      "episode": 6
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [
     {
       "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
-      "episode": 4,
+      "episode": 3,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/long-zu-ii-daowangzhe-zhi-tong-4",
-      "oldTime": 1753638919000,
-      "newTime": 1753466100000
+      "url": "https://animefenix2.tv/ver/long-zu-ii-daowangzhe-zhi-tong-3",
+      "oldTime": 1753097414000,
+      "newTime": 1752838200000
+    },
+    {
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/long-zu-ii-daowangzhe-zhi-tong/1",
+      "oldTime": 1753097414000,
+      "newTime": 1752838200000
+    },
+    {
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/long-zu-ii-daowangzhe-zhi-tong-2",
+      "oldTime": 1753097413000,
+      "newTime": 1752233400000
+    },
+    {
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/long-zu-ii-daowangzhe-zhi-tong/2",
+      "oldTime": 1753097413000,
+      "newTime": 1752233400000
+    },
+    {
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/long-zu-ii-daowangzhe-zhi-tong-1",
+      "oldTime": 1753097411000,
+      "newTime": 1751628600000
+    },
+    {
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/long-zu-ii-daowangzhe-zhi-tong/3",
+      "oldTime": 1753097411000,
+      "newTime": 1751628600000
     }
   ],
   "removedUrls": []
