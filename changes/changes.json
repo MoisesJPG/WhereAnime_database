@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Nukitashi the Animation",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/nukitashi-the-animation-4"
+      "animeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
+      "episode": 8
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
