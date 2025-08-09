@@ -5,10 +5,16 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Koujo Denka no Kateikyoushi",
-      "episode": 6,
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 4,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/koujo-denka-no-kateikyoushi-6"
+      "url": "https://animefenix2.tv/ver/nukitashi-the-animation-4"
+    },
+    {
+      "animeTitle": "Hikaru ga Shinda Natsu",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/hikaru-ga-shinda-natsu-6"
     }
   ],
   "updatedUrls": [],
