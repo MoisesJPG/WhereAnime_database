@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Shin Samurai-den Yaiba",
-      "episode": 18,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shin-samuraiden-yaiba-18"
+      "animeTitle": "Kaijuu 8-gou 2nd Season",
+      "episode": 4
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
