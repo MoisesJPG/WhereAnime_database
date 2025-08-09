@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "9: Ruler's Crown",
-      "episode": 7
+      "animeTitle": "Ame to Kimi to",
+      "episode": 6
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Fermat no Ryouri",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/fermat-no-ryouri-5"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
