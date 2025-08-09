@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+      "animeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
       "episode": 6
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Kaijuu 8-gou 2nd Season",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kaijuu-8-gou-2nd-season-4"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
