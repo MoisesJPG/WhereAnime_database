@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Shin Samurai-den Yaiba",
-      "episode": 18,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/shin-samurai-den-yaiba-18"
+      "animeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
