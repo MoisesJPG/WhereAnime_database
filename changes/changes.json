@@ -1,16 +1,18 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai-6"
+      "animeTitle": "Koujo Denka no Kateikyoushi",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Fermat no Ryouri",
+      "episode": 5
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
