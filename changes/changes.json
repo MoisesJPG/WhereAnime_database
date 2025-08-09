@@ -3,16 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Koujo Denka no Kateikyoushi",
+      "animeTitle": "Hikaru ga Shinda Natsu",
       "episode": 6
-    },
-    {
-      "animeTitle": "Fermat no Ryouri",
-      "episode": 5
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Koujo Denka no Kateikyoushi",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/koujo-denka-no-kateikyoushi-6"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
