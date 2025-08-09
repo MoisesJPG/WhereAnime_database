@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Kaoru Hana wa Rin to Saku",
-      "episode": 6
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kaoru-hana-wa-rin-to-saku/6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
