@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Shin Samurai-den Yaiba",
-      "episode": 18
+      "episode": 18,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-samuraiden-yaiba-18"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
