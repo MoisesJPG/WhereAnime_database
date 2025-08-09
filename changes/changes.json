@@ -1,19 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Hikaru ga Shinda Natsu",
-      "episode": 6
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Koujo Denka no Kateikyoushi",
+      "animeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
       "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/koujo-denka-no-kateikyoushi-6"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/sono-bisque-doll-wa-koi-wo-suru-season-2-6"
     }
   ],
   "updatedUrls": [],
