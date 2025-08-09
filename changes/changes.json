@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/kizetsu-yuusha-to-ansatsu-hime-6"
+      "animeTitle": "Yuusha Party wo Tsuihou sareta Shiromadoushi",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
