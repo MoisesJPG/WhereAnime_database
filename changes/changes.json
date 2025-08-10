@@ -3,116 +3,32 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
+  "addedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "To Be Hero X",
+      "episode": 18,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-18",
+      "oldTime": 1754820900000,
+      "newTime": 1754206560000
+    },
     {
       "animeTitle": "To Be Hero X",
       "episode": 19,
       "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/to-be-hero-x/episodio-19"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 16,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-16"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 15,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-15"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 14,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-14"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 13,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-13"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 12,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-12"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 11,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-11"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-10"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-9"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-8"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-7"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-6"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-5"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-4"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-3"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-2"
-    },
-    {
-      "animeTitle": "To Be Hero X",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-1"
+      "url": "https://www1.otakustv.com/anime/to-be-hero-x/episodio-19",
+      "oldTime": 1754043600000,
+      "newTime": 1754821200000
     },
     {
       "animeTitle": "To Be Hero X",
       "episode": 17,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-17"
+      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-17",
+      "oldTime": 960000,
+      "newTime": 1753638900000
     }
   ],
-  "updatedUrls": [],
   "removedUrls": []
 }
