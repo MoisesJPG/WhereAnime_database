@@ -1,154 +1,79 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 12,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-12",
-      "oldTime": 12000,
-      "newTime": 720000
+      "animeTitle": "Kimi to Idol Precure♪",
+      "episode": 27
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 12,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-12",
-      "oldTime": 12000,
-      "newTime": 720000
+      "animeTitle": "Hotel Inhumans",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 11,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-11",
-      "oldTime": 11000,
-      "newTime": 660000
+      "animeTitle": "Busamen Gachi Fighter",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 11,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-11",
-      "oldTime": 11000,
-      "newTime": 660000
+      "animeTitle": "City The Animation",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 10,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-10",
-      "oldTime": 10000,
-      "newTime": 600000
+      "animeTitle": "Game Center Shoujo to Ibunka Kouryuu",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-10",
-      "oldTime": 10000,
-      "newTime": 600000
+      "animeTitle": "Nyaight of the Living Cat",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 9,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-9",
-      "oldTime": 9000,
-      "newTime": 540000
+      "animeTitle": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-9",
-      "oldTime": 9000,
-      "newTime": 540000
+      "animeTitle": "Ruri no Houseki",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-8",
-      "oldTime": 8000,
-      "newTime": 480000
+      "animeTitle": "Dekin no Mogura",
+      "episode": 6
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-8",
-      "oldTime": 8000,
-      "newTime": 480000
+      "animeTitle": "Gachiakuta",
+      "episode": 5
     },
     {
-      "animeTitle": ".hack//DUSK",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-7",
-      "oldTime": 7000,
-      "newTime": 420000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-7",
-      "oldTime": 7000,
-      "newTime": 420000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-6",
-      "oldTime": 6000,
-      "newTime": 360000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-6",
-      "oldTime": 6000,
-      "newTime": 360000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-5",
-      "oldTime": 5000,
-      "newTime": 300000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-5",
-      "oldTime": 5000,
-      "newTime": 300000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-4",
-      "oldTime": 4000,
-      "newTime": 240000
-    },
-    {
-      "animeTitle": ".hack//DUSK",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-4",
-      "oldTime": 4000,
-      "newTime": 240000
+      "animeTitle": "One Piece",
+      "episode": 1139
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Yami Shibai 15",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yami-shibai-15/5"
+    },
+    {
+      "animeTitle": "Witch Watch",
+      "episode": 19,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/witch-watch-19"
+    },
+    {
+      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/puniru-wa-kawaii-slime-2nd-season-6"
+    },
+    {
+      "animeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/jibaku-shounen-hanako-kun-2-part-2-6"
+    }
+  ],
+  "updatedUrls": [],
   "removedUrls": []
 }
