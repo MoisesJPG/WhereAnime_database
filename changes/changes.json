@@ -1,18 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "To Be Hero X",
-      "episode": 19
-    },
-    {
-      "animeTitle": "Tu Bian Yingxiong X",
-      "episode": 19
+      "episode": 18,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tu-bian-yingxiong-x-19"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
