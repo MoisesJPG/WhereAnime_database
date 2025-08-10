@@ -3,16 +3,14 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedUrls": [
     {
-      "animeTitle": "Witch Watch",
-      "episode": 19,
+      "animeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "episode": 6,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/witch-watch-19",
-      "oldTime": 1754826134000,
-      "newTime": 1754826524000
+      "url": "https://www3.animeflv.net/ver/jibaku-shounen-hanakokun-2-18"
     }
   ],
+  "updatedUrls": [],
   "removedUrls": []
 }
