@@ -3,14 +3,16 @@
   "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
+  "addedUrls": [],
+  "updatedUrls": [
     {
       "animeTitle": "Witch Watch",
       "episode": 19,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/witch-watch-19"
+      "url": "https://www3.animeflv.net/ver/witch-watch-19",
+      "oldTime": 1754826134000,
+      "newTime": 1754826524000
     }
   ],
-  "updatedUrls": [],
   "removedUrls": []
 }
