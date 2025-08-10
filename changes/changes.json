@@ -7,18 +7,42 @@
   "updatedUrls": [
     {
       "animeTitle": ".hack//DUSK",
-      "episode": 1,
+      "episode": 3,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hack-dusk-1",
-      "oldTime": 1000,
-      "newTime": 0
+      "url": "https://www3.animeflv.net/ver/hack-dusk-3",
+      "oldTime": 3000,
+      "newTime": 180000
+    },
+    {
+      "animeTitle": ".hack//DUSK",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hack-dusk-3",
+      "oldTime": 3000,
+      "newTime": 180000
+    },
+    {
+      "animeTitle": ".hack//DUSK",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/hack-dusk-2",
+      "oldTime": 2000,
+      "newTime": 120000
+    },
+    {
+      "animeTitle": ".hack//DUSK",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hack-dusk-2",
+      "oldTime": 2000,
+      "newTime": 120000
     },
     {
       "animeTitle": ".hack//DUSK",
       "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hack-dusk-1",
-      "oldTime": 1000,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/hack-dusk-1",
+      "oldTime": 0,
       "newTime": 60000
     }
   ],
