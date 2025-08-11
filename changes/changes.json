@@ -1,6 +1,14 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "~ Libre 2"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "Zombieland Saga Revenge"
+    }
+  ],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
