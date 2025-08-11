@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Summer Pockets",
-      "episode": 19,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/summer-pockets-19"
+      "animeTitle": "Sakamoto Days Part 2",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
