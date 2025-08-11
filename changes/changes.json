@@ -1,46 +1,22 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "~ Libre 6"
+      "animeTitle": "~ Libre 7"
     }
   ],
   "removedAnime": [
     {
-      "animeTitle": "Gotoubun no Hanayome: La película 1080p"
+      "animeTitle": "Gotou ni Naritai."
     }
   ],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedEpisodes": [
     {
       "animeTitle": "Gotou ni Naritai",
       "episode": 1
     }
   ],
-  "addedUrls": [
-    {
-      "animeTitle": "Gotou ni Naritai.",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/gotou-ni-naritai-1"
-    }
-  ],
-  "updatedUrls": [
-    {
-      "animeTitle": "Gotou ni Naritai.",
-      "episode": 1,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/gotou-ni-naritai/1",
-      "oldTime": 1000,
-      "newTime": -3600000
-    },
-    {
-      "animeTitle": "Gotou ni Naritai.",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/gotou-ni-naritai-1",
-      "oldTime": 1000,
-      "newTime": -3600000
-    }
-  ],
+  "removedEpisodes": [],
+  "addedUrls": [],
+  "updatedUrls": [],
   "removedUrls": []
 }
