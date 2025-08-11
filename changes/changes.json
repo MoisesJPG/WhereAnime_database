@@ -1,17 +1,29 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "~ Libre 3"
-    }
-  ],
-  "removedAnime": [
-    {
-      "animeTitle": "Shin no Nakama S2"
-    }
-  ],
+  "addedAnime": [],
+  "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Gotoubun no Hanayome Movie",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/5toubun-no-hanayome-movie-1"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome Movie",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/go-toubun-no-hanayome-the-movie-1"
+    }
+  ],
   "updatedUrls": [],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "5-toubun no Hanayome Movie",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/5toubun-no-hanayome-movie-1"
+    }
+  ]
 }
