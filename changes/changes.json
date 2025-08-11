@@ -1,54 +1,90 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "~ Libre 2"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Lif"
+    }
+  ],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
+      "episode": 12,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-12"
+    },
+    {
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 11,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-11"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-11"
     },
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 10,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-10"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-10"
     },
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 9,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-9"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-9"
     },
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 8,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-8"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-8"
     },
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 7,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-7"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-7"
     },
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 6,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-6"
-    }
-  ],
-  "updatedUrls": [
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-6"
+    },
     {
-      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node",
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
       "episode": 5,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimas/episodio-5",
-      "newTime": -3360000
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-5"
+    },
+    {
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-4"
+    },
+    {
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-3"
+    },
+    {
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-2"
+    },
+    {
+      "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shin-no-nakama-s2-1"
     }
   ],
+  "updatedUrls": [],
   "removedUrls": []
 }
