@@ -1,29 +1,89 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
+  "addedAnime": [
+    {
+      "animeTitle": "Gotoubun no Hanayome*"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~"
+    },
+    {
+      "animeTitle": "~ Libre 4"
+    },
+    {
+      "animeTitle": "~ Libre 5"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "5-toubun no Hanayome∽"
+    },
+    {
+      "animeTitle": "5-toubun no Hanayome*"
+    },
+    {
+      "animeTitle": "5-toubun no Hanayome Movie"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome∽"
+    }
+  ],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Gotoubun no Hanayome*",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome*",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~",
+      "episode": 1
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Gotoubun no Hanayome Movie",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/5toubun-no-hanayome-movie-1"
+      "animeTitle": "Gotoubun no Hanayome*",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/5-toubun-no-hanayomee-2"
     },
     {
-      "animeTitle": "Gotoubun no Hanayome Movie",
+      "animeTitle": "Gotoubun no Hanayome*",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/go-toubun-no-hanayome-the-movie-1"
+      "url": "https://animefenix2.tv/ver/5-toubun-no-hanayomee-1"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/gotoubun-no-hanayome-ova-2"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/gotoubun-no-hanayome-specials/episodio-2"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/gotoubun-no-hanayome-ova-1"
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome~",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/gotoubun-no-hanayome-specials/episodio-1"
     }
   ],
   "updatedUrls": [],
-  "removedUrls": [
-    {
-      "animeTitle": "5-toubun no Hanayome Movie",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/5toubun-no-hanayome-movie-1"
-    }
-  ]
+  "removedUrls": []
 }
