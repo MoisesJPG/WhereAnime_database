@@ -1,18 +1,199 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "Yofukashi no Uta Season 2"
+    }
+  ],
   "addedEpisodes": [
     {
-      "animeTitle": "Utagoe wa Mille-Feuille",
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
       "episode": 3
     },
     {
-      "animeTitle": "Utagoe wa Mille-Feuille",
+      "animeTitle": "Yofukashi no Uta 2nd Season",
       "episode": 2
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 1
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Kijin Gentoushou",
+      "episode": 18,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kijin-gentoushou-18"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-6"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/6"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-6"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 5,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2/episodio-5"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-5"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-5"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/5"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-3"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2/episodio-3"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-3"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/3"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2/episodio-2"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/2"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-2"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-1"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-2"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-4"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2/episodio-4"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-4"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/4"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/1"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-1"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-2"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2/episodio-1"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-1"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
