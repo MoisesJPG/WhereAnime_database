@@ -1,34 +1,16 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "No Game No Life 2nd Season"
-    }
-  ],
-  "removedAnime": [
-    {
-      "animeTitle": "~ Libre 2"
-    }
-  ],
+  "addedAnime": [],
+  "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedUrls": [
     {
-      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
-      "episode": 1,
+      "animeTitle": "Food Court de, Mata Ashita.",
+      "episode": 6,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hokuto-no-ken-raoh-gaiden-gekitou-hen-1",
-      "oldTime": 86400000,
-      "newTime": 1167606000000
-    },
-    {
-      "animeTitle": "Hokuto no Ken: Raoh Gaiden Junai-hen",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/hokuto-no-ken-raoh-gaiden-junai-hen-1",
-      "oldTime": 1000,
-      "newTime": 1167606000000
+      "url": "https://animefenix2.tv/ver/food-court-de-mata-ashita-6"
     }
   ],
+  "updatedUrls": [],
   "removedUrls": []
 }
