@@ -1,6 +1,14 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "~ Libre 1"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "Tu Bian Yingxiong X"
+    }
+  ],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
