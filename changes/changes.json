@@ -1,16 +1,30 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Getter Robo Arc",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "null"
+      "animeTitle": "~ Libre 1",
+      "episode": 1
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 2
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 3
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 4
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 5
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
