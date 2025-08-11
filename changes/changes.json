@@ -1,124 +1,283 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "~ Libre 8"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "25-sai no Jyoshikousei"
+    }
+  ],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 12,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-12"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 11,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-11"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 10,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-10"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 9,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-9"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-8"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-7"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-6"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-5"
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 4,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-4"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-4"
     },
     {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 3,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-3"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-3"
     },
     {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 2,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-2"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-2"
     },
     {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 1,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-1"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/25sai-no-jyoshikousei-1"
     }
   ],
   "updatedUrls": [
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 12,
+      "page": "HentaiLA",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-12",
+      "oldTime": 12000,
+      "newTime": -2940000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 12,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-12",
+      "oldTime": 12000,
+      "newTime": -2940000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 11,
+      "page": "HentaiLA",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-11",
+      "oldTime": 11000,
+      "newTime": -3000000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 11,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-11",
+      "oldTime": 11000,
+      "newTime": -3000000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 10,
+      "page": "HentaiLA",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-10",
+      "oldTime": 10000,
+      "newTime": -3060000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 10,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-10",
+      "oldTime": 10000,
+      "newTime": -3060000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 9,
+      "page": "HentaiLA",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-9",
+      "oldTime": 9000,
+      "newTime": -3120000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-9",
+      "oldTime": 9000,
+      "newTime": -3120000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 8,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-8",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-8",
       "oldTime": 8000,
-      "newTime": -31539180000
+      "newTime": -3180000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-8",
+      "oldTime": 8000,
+      "newTime": -3180000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 7,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-7",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-7",
       "oldTime": 7000,
-      "newTime": -31539240000
+      "newTime": -3240000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-7",
+      "oldTime": 7000,
+      "newTime": -3240000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 6,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-6",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-6",
       "oldTime": 6000,
-      "newTime": -31539300000
+      "newTime": -3300000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-6",
+      "oldTime": 6000,
+      "newTime": -3300000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 5,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-5",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-5",
       "oldTime": 5000,
-      "newTime": -31539360000
+      "newTime": -3360000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-5",
+      "oldTime": 5000,
+      "newTime": -3360000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 4,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-4",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-4",
       "oldTime": 4000,
-      "newTime": -31539420000
+      "newTime": -3420000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-4",
+      "oldTime": 4000,
+      "newTime": -3420000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 3,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-3",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-3",
       "oldTime": 3000,
-      "newTime": -31539480000
+      "newTime": -3480000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-3",
+      "oldTime": 3000,
+      "newTime": -3480000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 2,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-2",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-2",
       "oldTime": 2000,
-      "newTime": -31539540000
+      "newTime": -3540000
     },
     {
-      "animeTitle": "1 Funkan dake Furete mo Ii yo…” Share House no Himitsu Rule",
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-2",
+      "oldTime": 2000,
+      "newTime": -3540000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
       "episode": 1,
       "page": "HentaiLA",
-      "url": "https://www5.hentaila.com//ver/1-funkan-dake-furete-mo-ii-yo-share-house-no-himitsu-rule-1",
+      "url": "https://www5.hentaila.com//ver/25-sai-no-joshikousei-1",
       "oldTime": 1000,
-      "newTime": -31539600000
+      "newTime": -3600000
+    },
+    {
+      "animeTitle": "25-sai no Joshikousei",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/25sai-no-jyoshikousei-1",
+      "oldTime": 1000,
+      "newTime": -3600000
     }
   ],
-  "removedUrls": [
-    {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-      "episode": 4,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-1"
-    },
-    {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-      "episode": 3,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-2"
-    },
-    {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-      "episode": 2,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-3"
-    },
-    {
-      "animeTitle": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-      "episode": 1,
-      "page": "HentaiLA",
-      "url": "https://www5.hentaila.com/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-4"
-    }
-  ]
+  "removedUrls": []
 }
