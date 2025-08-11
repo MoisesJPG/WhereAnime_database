@@ -1,25 +1,18 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "Utagoe wa Mille-Feuille"
-    }
-  ],
+  "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [
     {
       "animeTitle": "Utagoe wa Mille-Feuille",
-      "episode": 1
+      "episode": 3
+    },
+    {
+      "animeTitle": "Utagoe wa Mille-Feuille",
+      "episode": 2
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Utagoe wa Mille-Feuille",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/utagoe-wa-mille-feuille-1"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
