@@ -1,29 +1,9 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "Rapidos y furiosos X"
-    }
-  ],
-  "removedAnime": [
-    {
-      "animeTitle": "Rápidos y furiosos X"
-    }
-  ],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Rapidos y furiosos X",
-      "episode": 1
-    }
-  ],
+  "addedAnime": [],
+  "removedAnime": [],
+  "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Rapidos y furiosos X",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/rapidos-y-furiosos-x-1"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
