@@ -1,7 +1,8 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [
     {
       "animeTitle": "~ Libre 1",
       "episode": 1
@@ -23,8 +24,94 @@
       "episode": 5
     }
   ],
-  "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/puniru-wa-kawaii-slime-18",
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Getter Robo Arc",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "null",
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Rapidos y furiosos X",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rapidos-y-furiosos-x-1",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Nekopara",
+      "episode": 1,
+      "page": "HentaiLA",
+      "url": "https://hentaila.com/ver/nekopara-1",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Nekopara",
+      "episode": 2,
+      "page": "HentaiLA",
+      "url": "https://hentaila.com/ver/nekopara-2",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Nekopara OVA",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nekopara-1",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Nekopara OVA",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nekopara-2",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "One Piece Strong World",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/one-piece-strong-world-1",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-1",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-movie-1-guren-no-yumiya-1",
+      "oldTime": null,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "Gotoubun no Hanayome Movie",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/5toubun-no-hanayome-movie-1",
+      "oldTime": null,
+      "newTime": 0
+    }
+  ],
   "removedUrls": []
 }
