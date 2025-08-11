@@ -1,14 +1,23 @@
 {
-  "addedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "Utagoe wa Mille-Feuille"
+    }
+  ],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Utagoe wa Mille-Feuille",
+      "episode": 1
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
-      "episode": 6,
+      "animeTitle": "Utagoe wa Mille-Feuille",
+      "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-6"
+      "url": "https://animefenix2.tv/ver/utagoe-wa-mille-feuille-1"
     }
   ],
   "updatedUrls": [],
