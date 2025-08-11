@@ -1,22 +1,39 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "~ Libre 7"
-    }
-  ],
-  "removedAnime": [
-    {
-      "animeTitle": "Gotou ni Naritai."
-    }
-  ],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Gotou ni Naritai",
-      "episode": 1
-    }
-  ],
+  "addedAnime": [],
+  "removedAnime": [],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": []
+  "updatedUrls": [
+    {
+      "animeTitle": "9: Ruler's Crown",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-3",
+      "oldTime": 3000,
+      "newTime": 1752492600000
+    },
+    {
+      "animeTitle": "9: Ruler's Crown",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-1",
+      "oldTime": 1000,
+      "newTime": 1751283000000
+    }
+  ],
+  "removedUrls": [
+    {
+      "animeTitle": "9: Ruler's Crown",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-1"
+    },
+    {
+      "animeTitle": "9: Ruler's Crown",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-3"
+    }
+  ]
 }
