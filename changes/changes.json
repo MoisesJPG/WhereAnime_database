@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
-      "episode": 6
+      "animeTitle": "Kijin Gentoushou",
+      "episode": 18
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Sakamoto Days Part 2",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/sakamoto-days-part-2-6"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
