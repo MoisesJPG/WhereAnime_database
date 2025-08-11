@@ -1,39 +1,211 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [],
-  "updatedUrls": [
+  "addedAnime": [
     {
-      "animeTitle": "9: Ruler's Crown",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-3",
-      "oldTime": 3000,
-      "newTime": 1752492600000
-    },
-    {
-      "animeTitle": "9: Ruler's Crown",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-1",
-      "oldTime": 1000,
-      "newTime": 1751283000000
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season"
     }
   ],
-  "removedUrls": [
+  "removedAnime": [
     {
-      "animeTitle": "9: Ruler's Crown",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-1"
+      "animeTitle": "12-Sai. Chiccha na Mune no Tokimeki 2nd Season"
+    }
+  ],
+  "addedEpisodes": [
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 12
     },
     {
-      "animeTitle": "9: Ruler's Crown",
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 11
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 10
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 9
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 8
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 7
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 1
+    }
+  ],
+  "removedEpisodes": [],
+  "addedUrls": [
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 12,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-12"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 12,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-12"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 11,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-11"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 11,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-11"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 10,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-10"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 10,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-10"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 9,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-9"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-9"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-8"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-8"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-7"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-7"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-6"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-6"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-5"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-5"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-4"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-4"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-3"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-3"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-2"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-2"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-1"
+    },
+    {
+      "animeTitle": "12-sai.: Chiccha na Mune no Tokimeki 2nd Season",
       "episode": 1,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-3"
+      "url": "https://animefenix2.tv/ver/12-sai-chiccha-na-mune-no-tokimeki-2nd-season-1"
     }
-  ]
+  ],
+  "updatedUrls": [],
+  "removedUrls": []
 }
