@@ -1,73 +1,33 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "No Game No Life 2nd Season"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "~ Libre 2"
+    }
+  ],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [
     {
-      "animeTitle": "Bullet/Bullet",
+      "animeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
       "episode": 1,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/1",
-      "oldTime": 8000,
-      "newTime": 1748520300000
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hokuto-no-ken-raoh-gaiden-gekitou-hen-1",
+      "oldTime": 86400000,
+      "newTime": 1167606000000
     },
     {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 2,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/2",
-      "oldTime": 7000,
-      "newTime": 1749125100000
-    },
-    {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 3,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/3",
-      "oldTime": 6000,
-      "newTime": 1749729900000
-    },
-    {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 4,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/4",
-      "oldTime": 5000,
-      "newTime": 1750334700000
-    },
-    {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 5,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/5",
-      "oldTime": 4000,
-      "newTime": 1750939500000
-    },
-    {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 6,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/6",
-      "oldTime": 3000,
-      "newTime": 1751544300000
-    },
-    {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 7,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/7",
-      "oldTime": 2000,
-      "newTime": 1752149100000
-    },
-    {
-      "animeTitle": "Bullet/Bullet",
-      "episode": 8,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/bulletbullet/8",
+      "animeTitle": "Hokuto no Ken: Raoh Gaiden Junai-hen",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hokuto-no-ken-raoh-gaiden-junai-hen-1",
       "oldTime": 1000,
-      "newTime": 1752753900000
+      "newTime": 1167606000000
     }
   ],
   "removedUrls": []
