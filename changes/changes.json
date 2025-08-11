@@ -1,7 +1,12 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Food Court de, Mata Ashita.",
+      "episode": 6
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
