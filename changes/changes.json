@@ -1,19 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Necronomico no Cosmic Horror Show",
-      "episode": 7
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Kakkou no Iinazuke 2nd Season",
-      "episode": 6,
+      "animeTitle": "Necronomico no Cosmic Horror Show",
+      "episode": 7,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/kakkou-no-iinazuke-season-2-6"
+      "url": "https://animefenix2.tv/ver/necronomico-no-cosmic-horror-show-7"
     }
   ],
   "updatedUrls": [],
