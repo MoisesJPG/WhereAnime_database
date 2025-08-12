@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/osomatsusan-4th-season-6"
+      "animeTitle": "Turkey!",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
