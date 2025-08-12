@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Mattaku Saikin no Tantei to Kitara",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/mattaku-saikin-no-tantei-to-kitara-7"
+      "animeTitle": "Osomatsu-san 4th Season",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
