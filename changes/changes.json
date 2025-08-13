@@ -1,7 +1,12 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+      "episode": 7
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
