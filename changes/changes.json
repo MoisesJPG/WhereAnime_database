@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 7
+      "animeTitle": "Mikadono Sanshimai wa Angai, Choroi.",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mikadono-sanshimai-wa-angai-choroi-7"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
