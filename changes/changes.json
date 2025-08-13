@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/onmyou-kaiten-re-birth-7"
+      "animeTitle": "Tsuyokute New Saga",
+      "episode": 7
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
