@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Uchuujin MuuMuu",
-      "episode": 19
+      "episode": 19,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/uchuujin-muumuu-19"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
