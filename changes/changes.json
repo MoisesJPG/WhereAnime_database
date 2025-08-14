@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Karaoke Iko!",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/karaoke-iko-4"
+      "animeTitle": "Dandadan 2nd Season",
+      "episode": 7
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
