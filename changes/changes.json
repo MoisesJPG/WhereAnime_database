@@ -1,38 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
-      "episode": 1
+      "animeTitle": "Karaoke Iko!",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/karaoke-iko-4"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
