@@ -1,18 +1,48 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedAnime": [
     {
-      "animeTitle": "~ Libre 1",
-      "episode": 2
-    },
+      "animeTitle": "Dandadan: Evil Eye"
+    }
+  ],
+  "removedAnime": [
     {
-      "animeTitle": "~ Libre 1",
+      "animeTitle": "Dan Da Dan: Evil Eye"
+    }
+  ],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Dandadan: Evil Eye",
       "episode": 1
     }
   ],
-  "addedUrls": [],
+  "removedEpisodes": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Dandadan: Evil Eye",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/dan-da-dan-evil-eye-1"
+    }
+  ],
   "updatedUrls": [],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "episode": 12,
+      "page": "1",
+      "url": "1"
+    },
+    {
+      "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "episode": 12,
+      "page": "122",
+      "url": "2"
+    },
+    {
+      "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "episode": 2,
+      "page": "22",
+      "url": "2"
+    }
+  ]
 }
