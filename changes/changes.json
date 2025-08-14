@@ -1,14 +1,49 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 7
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
       "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/dr-stone-science-future-18"
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsuihousha-shokudou-e-youkoso/7/%NULL%"
+    },
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsuihousha-shokudou-e-youkoso/7/%NULL%"
+    },
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsuihousha-shokudou-e-youkoso/7/%NULL%"
+    },
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsuihousha-shokudou-e-youkoso/7/%NULL%"
+    },
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsuihousha-shokudou-e-youkoso/7/%NULL%"
+    },
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsuihousha-shokudou-e-youkoso/7/%NULL%"
     }
   ],
   "updatedUrls": [],
