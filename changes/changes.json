@@ -3,23 +3,12 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Futari Solo Camp",
-      "episode": 6
-    },
-    {
       "animeTitle": "~ Libre 1",
-      "episode": 2
+      "episode": 3
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 1,
-      "page": "2ts",
-      "url": "1"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
