@@ -5,12 +5,19 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Dandadan 2nd Season",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/dandadan-2nd-season-7"
+      "animeTitle": "~ Libre 1",
+      "episode": 1,
+      "page": "1ts",
+      "url": "10s11"
     }
   ],
   "updatedUrls": [],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 1,
+      "page": "1",
+      "url": "10s"
+    }
+  ]
 }
