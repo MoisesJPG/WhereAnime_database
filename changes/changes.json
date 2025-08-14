@@ -1,16 +1,22 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Dandadan 2nd Season",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/dandadan-2nd-season-7"
+      "animeTitle": "~ Libre 1",
+      "episode": 3
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 2
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 1
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
