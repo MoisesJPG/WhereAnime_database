@@ -1,7 +1,8 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [
     {
       "animeTitle": "~ Libre 1",
       "episode": 5
@@ -9,10 +10,37 @@
     {
       "animeTitle": "~ Libre 1",
       "episode": 4
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 3
     }
   ],
-  "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": []
+  "updatedUrls": [
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 2,
+      "page": "1ts",
+      "url": "1",
+      "oldTime": -31539600000,
+      "newTime": 0
+    },
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 1,
+      "page": "2ts",
+      "url": "1",
+      "oldTime": 883609200000,
+      "newTime": 0
+    }
+  ],
+  "removedUrls": [
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 1,
+      "page": "1ts",
+      "url": "10s11"
+    }
+  ]
 }
