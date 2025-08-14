@@ -1,22 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
-      "animeTitle": "~ Libre 1",
-      "episode": 3
-    },
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 2
-    },
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 1
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/dr-stone-science-future-part-2-6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
