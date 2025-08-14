@@ -1,7 +1,12 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Karaoke Iko!",
+      "episode": 4
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
