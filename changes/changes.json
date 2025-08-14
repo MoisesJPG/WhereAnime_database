@@ -1,14 +1,34 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Dandadan 2nd Season",
-      "episode": 7
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dandadan-2nd-season/7"
+    },
+    {
+      "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "episode": 12,
+      "page": "1",
+      "url": "1"
+    },
+    {
+      "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "episode": 12,
+      "page": "122",
+      "url": "2"
+    },
+    {
+      "animeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "episode": 2,
+      "page": "22",
+      "url": "2"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
