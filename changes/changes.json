@@ -1,14 +1,46 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Dr. Stone: Science Future Part 2",
-      "episode": 6
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dr-stone-science-future-part-2/6/"
+    },
+    {
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dr-stone-science-future-part-2/6/%NULL%"
+    },
+    {
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dr-stone-science-future-part-2/6/%NULL%"
+    },
+    {
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dr-stone-science-future-part-2/6/%NULL%"
+    },
+    {
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dr-stone-science-future-part-2/6/%NULL%"
+    },
+    {
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dr-stone-science-future-part-2/6/%NULL%"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
