@@ -1,46 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/"
-    },
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
-    },
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
-    },
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
-    },
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
-    },
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
