@@ -2,22 +2,19 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 3
-    },
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 2
-    }
-  ],
+  "removedEpisodes": [],
   "addedUrls": [
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tsuihousha-shokudou-e-youkoso-7"
+    },
     {
       "animeTitle": "~ Libre 1",
       "episode": 1,
       "page": "1",
-      "url": "10"
+      "url": "10s"
     }
   ],
   "updatedUrls": [],
@@ -26,7 +23,7 @@
       "animeTitle": "~ Libre 1",
       "episode": 1,
       "page": "1",
-      "url": "1"
+      "url": "10"
     }
   ]
 }
