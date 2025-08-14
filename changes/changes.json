@@ -1,19 +1,44 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 7
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
       "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
       "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/kamitsubakishi-kensetsuchuu-6"
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/"
+    },
+    {
+      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
+    },
+    {
+      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
+    },
+    {
+      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
+    },
+    {
+      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
+    },
+    {
+      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kamitsubaki-shi-kensetsuchuu/6/%NULL%"
     }
   ],
   "updatedUrls": [],
