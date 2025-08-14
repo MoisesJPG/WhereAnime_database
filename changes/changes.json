@@ -5,25 +5,12 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "animeTitle": "Dandadan 2nd Season",
       "episode": 7,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tsuihousha-shokudou-e-youkoso-7"
-    },
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 1,
-      "page": "1",
-      "url": "10s"
+      "url": "https://animefenix2.tv/ver/dandadan-2nd-season-7"
     }
   ],
   "updatedUrls": [],
-  "removedUrls": [
-    {
-      "animeTitle": "~ Libre 1",
-      "episode": 1,
-      "page": "1",
-      "url": "10"
-    }
-  ]
+  "removedUrls": []
 }
