@@ -1,14 +1,34 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Karaoke Iko!",
-      "episode": 4
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/karaoke-iko/4/"
+    },
+    {
+      "animeTitle": "Karaoke Iko!",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/karaoke-iko/4/%NULL%"
+    },
+    {
+      "animeTitle": "Karaoke Iko!",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/karaoke-iko/4/%NULL%"
+    },
+    {
+      "animeTitle": "Karaoke Iko!",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/karaoke-iko/4/%NULL%"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
