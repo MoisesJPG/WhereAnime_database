@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Tougen Anki",
-      "episode": 6
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 7
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-7"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
