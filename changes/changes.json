@@ -1,13 +1,13 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedEpisodes": [
     {
-      "animeTitle": "~ Libre 1",
-      "episode": 1
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 7
     }
   ],
+  "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
