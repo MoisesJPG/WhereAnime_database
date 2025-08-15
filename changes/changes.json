@@ -4,11 +4,20 @@
   "addedEpisodes": [
     {
       "animeTitle": "~ Libre 1",
-      "episode": 1
+      "episode": 2
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [],
-  "updatedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "~ Libre 1",
+      "episode": 1,
+      "page": "11",
+      "url": "1",
+      "oldTime": -31539540000,
+      "newTime": 0
+    }
+  ],
   "removedUrls": []
 }
