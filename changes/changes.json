@@ -5,10 +5,16 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Tougen Anki",
-      "episode": 6,
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 7,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tougen-anki-6"
+      "url": "https://www3.animeflv.net/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-7"
+    },
+    {
+      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/watari-kun-no-xx-ga-houkai-sunzen-7"
     }
   ],
   "updatedUrls": [],
