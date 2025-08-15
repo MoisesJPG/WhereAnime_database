@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Mizu Zokusei no Mahoutsukai",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/mizu-zokusei-no-mahoutsukai/6/"
+      "animeTitle": "~ Libre 1",
+      "episode": 1
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
