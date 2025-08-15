@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Arknights: Rise from Ember",
-      "episode": 7
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/7"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
