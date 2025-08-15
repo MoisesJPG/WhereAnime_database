@@ -2,13 +2,174 @@
   "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [],
-  "removedEpisodes": [
+  "removedEpisodes": [],
+  "addedUrls": [],
+  "updatedUrls": [
     {
-      "animeTitle": "~ Libre 1",
-      "episode": 2
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-3",
+      "oldTime": 1753097409000,
+      "newTime": 1752751800000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mizu-zokusei-no-mahoutsukai/3/",
+      "oldTime": 3000,
+      "newTime": 1752781500000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-4",
+      "oldTime": 1753436029000,
+      "newTime": 1753349580000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/mizu-zokusei-no-mahoutsukai/episodio-4",
+      "oldTime": 1753436004000,
+      "newTime": 1753349580000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/mizu-zokusei-no-mahoutsukai-4",
+      "oldTime": 1753436001000,
+      "newTime": 1753349580000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/mizu-zokusei-no-mahoutsukai/4",
+      "oldTime": 1753435999000,
+      "newTime": 1753349580000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mizu-zokusei-no-mahoutsukai/4/",
+      "oldTime": 2000,
+      "newTime": 1753349580000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/mizu-zokusei-no-mahoutsukai/episodio-2",
+      "oldTime": 1752188725000,
+      "newTime": 1752102300000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/mizu-zokusei-no-mahoutsukai/2",
+      "oldTime": 1752188720000,
+      "newTime": 1752102300000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/mizu-zokusei-no-mahoutsukai-2",
+      "oldTime": 1752188720000,
+      "newTime": 1752102300000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mizu-zokusei-no-mahoutsukai/2/",
+      "oldTime": 4000,
+      "newTime": 1752102300000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-2",
+      "oldTime": 2000,
+      "newTime": 1752102300000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mizu-zokusei-no-mahoutsukai/5/",
+      "oldTime": 1000,
+      "newTime": 1753992000000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/mizu-zokusei-no-mahoutsukai/1",
+      "oldTime": 5000,
+      "newTime": 1751493600000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mizu-zokusei-no-mahoutsukai/1/",
+      "oldTime": 5000,
+      "newTime": 1751493600000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/mizu-zokusei-no-mahoutsukai-1",
+      "oldTime": 1000,
+      "newTime": 1751493600000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/mizu-zokusei-no-mahoutsukai/episodio-1",
+      "oldTime": 1000,
+      "newTime": 1751493600000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-1",
+      "oldTime": 1000,
+      "newTime": 1751493600000
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/mizu-zokusei-no-mahoutsukai/6/",
+      "oldTime": 1755209508000,
+      "newTime": 1755204120000
     }
   ],
-  "addedUrls": [],
-  "updatedUrls": [],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-1"
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-2"
+    }
+  ]
 }
