@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Busu ni Hanataba wo.",
-      "episode": 7,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/busu-ni-hanataba-wo/7"
+      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
+      "episode": 7
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
