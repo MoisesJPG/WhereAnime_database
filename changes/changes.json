@@ -1,19 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-      "episode": 7
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
       "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/watari-kun-no-xx-ga-houkai-sunzen/7/"
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/silent-witch-chinmoku-no-majo-no-kakushigoto/7"
     }
   ],
   "updatedUrls": [],
