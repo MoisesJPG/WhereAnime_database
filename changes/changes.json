@@ -1,9 +1,55 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
+      "episode": 9
+    }
+  ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/7"
+    },
+    {
+      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru-7"
+    },
+    {
+      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/7/"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/7"
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/yofukashi-no-uta-season-2-7"
+    },
+    {
+      "animeTitle": "Busu ni Hanataba wo.",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/busu-ni-hanataba-wo-7"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
