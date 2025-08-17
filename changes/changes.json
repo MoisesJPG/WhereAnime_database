@@ -1,21 +1,12 @@
 {
-  "addedAnime": [
+  "addedAnime": [],
+  "removedAnime": [],
+  "addedEpisodes": [
     {
-      "animeTitle": "Sonic the Hedgehog 2"
-    },
-    {
-      "animeTitle": "Sonic the Hedgehog"
+      "animeTitle": "Dekin no Mogura",
+      "episode": 7
     }
   ],
-  "removedAnime": [
-    {
-      "animeTitle": "~ Libre 9"
-    },
-    {
-      "animeTitle": "~ Libre 8"
-    }
-  ],
-  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
