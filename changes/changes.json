@@ -1,13 +1,13 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedEpisodes": [
     {
-      "animeTitle": "~ Libre 1",
-      "episode": 1
+      "animeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "episode": 7
     }
   ],
+  "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
