@@ -7,12 +7,273 @@
   "updatedUrls": [
     {
       "animeTitle": "Arknights: Rise from Ember",
-      "episode": 6,
+      "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/arknights-rise-from-ember/6/",
-      "oldTime": 1000,
+      "url": "https://www.jkanime.net/arknights-rise-from-ember/7/",
+      "oldTime": 1755272614000,
+      "newTime": 1755272580000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/7",
+      "oldTime": 1755272729000,
+      "newTime": 1755272700000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-7",
+      "oldTime": 1755275647000,
+      "newTime": 1755275640000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-7",
+      "oldTime": 1755274861000,
+      "newTime": 1755274860000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-6",
+      "oldTime": 1754667629000,
+      "newTime": 1754667600000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/6",
+      "oldTime": 1754667328000,
+      "newTime": 1754667300000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-6",
+      "oldTime": 1754666756000,
       "newTime": 1754666700000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-5",
+      "oldTime": 1754063526000,
+      "newTime": 1754063520000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 5,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/arknights-rise-from-ember/episodio-5",
+      "oldTime": 1754063209000,
+      "newTime": 1754063160000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-5",
+      "oldTime": 1754062626000,
+      "newTime": 1754062620000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/5",
+      "oldTime": 1754061702000,
+      "newTime": 1754061660000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/arknights-rise-from-ember/5/",
+      "oldTime": 2000,
+      "newTime": 1754061660000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-4",
+      "oldTime": 1753638920000,
+      "newTime": 1753466100000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/arknights-rise-from-ember/episodio-4",
+      "oldTime": 4000,
+      "newTime": 1753466100000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-4",
+      "oldTime": 4000,
+      "newTime": 1753466100000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/arknights-rise-from-ember/4/",
+      "oldTime": 3000,
+      "newTime": 1753466100000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/4",
+      "oldTime": 2000,
+      "newTime": 1753466100000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-3",
+      "oldTime": 1753097410000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/arknights-rise-from-ember/episodio-3",
+      "oldTime": 1752921316000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-3",
+      "oldTime": 1752921313000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/3",
+      "oldTime": 1752921311000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/arknights-rise-from-ember/3/",
+      "oldTime": 4000,
+      "newTime": 1752854400000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/2",
+      "oldTime": 1752247521000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-2",
+      "oldTime": 1752247521000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/arknights-rise-from-ember/episodio-2",
+      "oldTime": 1752247521000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/arknights-rise-from-ember/2/",
+      "oldTime": 5000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-2",
+      "oldTime": 2000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/arknights-rise-from-ember/1",
+      "oldTime": 1751642721000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/arknights-rise-from-ember-1",
+      "oldTime": 1751642721000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/arknights-rise-from-ember/episodio-1",
+      "oldTime": 1751642721000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/arknights-rise-from-ember/1/",
+      "oldTime": 6000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-1",
+      "oldTime": 1000,
+      "newTime": 1751644800000
     }
   ],
-  "removedUrls": []
+  "removedUrls": [
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-1"
+    },
+    {
+      "animeTitle": "Arknights: Rise from Ember",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/arknights-rise-from-ember-2"
+    }
+  ]
 }
