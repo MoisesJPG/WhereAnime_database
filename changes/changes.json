@@ -1,25 +1,26 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "City The Animation",
-      "episode": 7
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Witch Watch",
-      "episode": 20,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/witch-watch/20/"
+      "animeTitle": "Busamen Gachi Fighter",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/busamen-gachi-fighter-7"
     },
     {
-      "animeTitle": "Ruri no Houseki",
+      "animeTitle": "Busamen Gachi Fighter",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/busamen-gachi-fighter/7"
+    },
+    {
+      "animeTitle": "City The Animation",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/ruri-no-houseki/7/"
+      "url": "https://www.jkanime.net/city-the-animation/7/"
     }
   ],
   "updatedUrls": [],
