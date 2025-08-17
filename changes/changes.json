@@ -1,16 +1,17 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedAnime": [
     {
-      "animeTitle": "Witch Watch",
-      "episode": 20,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/witch-watch-20"
+      "animeTitle": "~ Libre 30"
     }
   ],
+  "removedAnime": [
+    {
+      "animeTitle": "~ Libre 3"
+    }
+  ],
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
