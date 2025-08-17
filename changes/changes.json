@@ -1,20 +1,19 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "One Piece",
+      "episode": 1140
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Hotel Inhumans",
+      "animeTitle": "City The Animation",
       "episode": 7,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hotel-inhumans-7"
-    },
-    {
-      "animeTitle": "9: Ruler's Crown",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/9-ruler-s-crown-8"
+      "url": "https://www3.animeflv.net/ver/city-the-animation-7"
     }
   ],
   "updatedUrls": [],
