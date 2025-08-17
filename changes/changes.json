@@ -1,871 +1,9 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 106
-    },
-    {
-      "animeTitle": "9: Ruler's Crown",
-      "episode": 8
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 105,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 104,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 103,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 102,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 101,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 100,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 99,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 98,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 97,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 96,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 95,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 94,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 93,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 92,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 91,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 90,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 89,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 88,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 87,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 86,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 85,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 84,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 83,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 82,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 81,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 80,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 79,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 78,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 77,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 76,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 75,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 74,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 73,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 72,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 71,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 70,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 69,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 68,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 67,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 66,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 65,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 64,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 63,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 62,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 61,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 60,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 59,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 58,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 57,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 56,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 55,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 54,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 53,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 52,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 51,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 50,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 49,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 48,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 47,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 46,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 45,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 44,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 43,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 42,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 41,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 40,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 39,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 38,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 37,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 36,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 35,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 34,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 33,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 32,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 31,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 30,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 29,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 28,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 27,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 26,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 25,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 24,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 23,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 22,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 21,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 20,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 19,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 18,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 17,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 16,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 15,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 14,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 13,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Pokemon (Shinsaku Anime)",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/pokemon-shinsaku-anime/106/%NULL%"
-    },
-    {
-      "animeTitle": "Bad Girl",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/bad-girl/7/"
-    },
-    {
-      "animeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/sono-bisque-doll-wa-koi-wo-suru-season-2/7/"
-    },
-    {
-      "animeTitle": "Koujo Denka no Kateikyoushi",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/koujo-denka-no-kateikyoushi/7/"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 27,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 26,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 25,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 24,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 23,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 22,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 21,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 20,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 19,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 18,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 17,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 16,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 15,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 14,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 13,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/%NULL%"
-    },
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 28,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kimi-to-idol-precure/28/"
-    },
-    {
-      "animeTitle": "Kaoru Hana wa Rin to Saku",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kaoru-hana-wa-rin-to-saku/7/"
-    },
-    {
-      "animeTitle": "Ame to Kimi to",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/ame-to-kimi-to/7/"
-    },
-    {
-      "animeTitle": "Hikaru ga Shinda Natsu",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/hikaru-ga-shinda-natsu/7/"
-    },
-    {
-      "animeTitle": "Fermat no Ryouri",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/fermat-no-ryouri/6/"
-    },
-    {
-      "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kizetsu-yuusha-to-ansatsu-hime/7/"
-    },
-    {
-      "animeTitle": "Kaijuu 8-gou 2nd Season",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kaijuu-8-gou-2nd-season/5/"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [
     {
       "animeTitle": "Utagoe wa Mille-Feuille",
@@ -1430,23 +568,23 @@
     {
       "animeTitle": "Dr. Stone: Science Future Part 2",
       "episode": 6,
+      "page": "JKAnime",
+      "oldTime": 1755183110000,
+      "newTime": 1755192169000
+    },
+    {
+      "animeTitle": "Dr. Stone: Science Future Part 2",
+      "episode": 6,
       "page": "AnimeFLV",
       "oldTime": 1755182671000,
-      "newTime": 1755183110000
+      "newTime": 1755192169000
     },
     {
       "animeTitle": "Dr. Stone: Science Future Part 2",
       "episode": 6,
       "page": "AnimeAV1",
       "oldTime": 1755182070000,
-      "newTime": 1755183110000
-    },
-    {
-      "animeTitle": "Dr. Stone: Science Future Part 2",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "oldTime": 1755192169000,
-      "newTime": 1755183110000
+      "newTime": 1755192169000
     },
     {
       "animeTitle": "Dr. Stone: Science Future Part 2",
@@ -2151,23 +1289,23 @@
     {
       "animeTitle": "Tsuihousha Shokudou e Youkoso!",
       "episode": 7,
+      "page": "AnimeFLV",
+      "oldTime": 1755184762000,
+      "newTime": 1755192769000
+    },
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 7,
       "page": "JKAnime",
       "oldTime": 1755184600000,
-      "newTime": 1755184762000
+      "newTime": 1755192769000
     },
     {
       "animeTitle": "Tsuihousha Shokudou e Youkoso!",
       "episode": 7,
       "page": "AnimeAV1",
       "oldTime": 1755183860000,
-      "newTime": 1755184762000
-    },
-    {
-      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755192769000,
-      "newTime": 1755184762000
+      "newTime": 1755192769000
     },
     {
       "animeTitle": "Tsuihousha Shokudou e Youkoso!",
@@ -2557,9 +1695,9 @@
     {
       "animeTitle": "To Be Hero X",
       "episode": 20,
-      "page": "AnimeFenix",
-      "oldTime": 1755422219000,
-      "newTime": 1755420562000
+      "page": "AnimeAV1",
+      "oldTime": 1755420562000,
+      "newTime": 1755422219000
     },
     {
       "animeTitle": "1+2=Paradise",
@@ -2634,23 +1772,23 @@
     {
       "animeTitle": "Nukitashi the Animation",
       "episode": 5,
-      "page": "AnimeFLV",
-      "oldTime": 1755334491000,
-      "newTime": 1755334399000
+      "page": "AnimeAV1",
+      "oldTime": 1755334399000,
+      "newTime": 1755421609000
     },
     {
       "animeTitle": "Nukitashi the Animation",
       "episode": 5,
-      "page": "AnimeFenix",
-      "oldTime": 1755421609000,
-      "newTime": 1755334399000
+      "page": "AnimeFLV",
+      "oldTime": 1755334491000,
+      "newTime": 1755421609000
     },
     {
       "animeTitle": "Nukitashi the Animation",
       "episode": 5,
       "page": "JKAnime",
       "oldTime": 1755420548000,
-      "newTime": 1755334399000
+      "newTime": 1755421609000
     },
     {
       "animeTitle": "Tougen Anki",
@@ -2704,44 +1842,44 @@
     {
       "animeTitle": "Tougen Anki",
       "episode": 6,
+      "page": "JKAnime",
+      "oldTime": 1755274409000,
+      "newTime": 1755278464000
+    },
+    {
+      "animeTitle": "Tougen Anki",
+      "episode": 6,
       "page": "AnimeFenix",
       "oldTime": 1755276847000,
-      "newTime": 1755274409000
+      "newTime": 1755278464000
     },
     {
       "animeTitle": "Tougen Anki",
       "episode": 6,
       "page": "AnimeAV1",
       "oldTime": 1755275729000,
-      "newTime": 1755274409000
-    },
-    {
-      "animeTitle": "Tougen Anki",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "oldTime": 1755278464000,
-      "newTime": 1755274409000
+      "newTime": 1755278464000
     },
     {
       "animeTitle": "Futari Solo Camp",
       "episode": 6,
-      "page": "AnimeFenix",
-      "oldTime": 1755193669000,
-      "newTime": 1755191960000
+      "page": "AnimeAV1",
+      "oldTime": 1755191960000,
+      "newTime": 1755193669000
     },
     {
       "animeTitle": "Futari Solo Camp",
       "episode": 6,
       "page": "AnimeFLV",
       "oldTime": 1755191961000,
-      "newTime": 1755191960000
+      "newTime": 1755193669000
     },
     {
       "animeTitle": "Futari Solo Camp",
       "episode": 6,
       "page": "JKAnime",
       "oldTime": 1755192699000,
-      "newTime": 1755191960000
+      "newTime": 1755193669000
     },
     {
       "animeTitle": "Futari Solo Camp",
@@ -3061,9 +2199,9 @@
     {
       "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755275047000,
-      "newTime": 1755265221000
+      "page": "AnimeAV1",
+      "oldTime": 1755265221000,
+      "newTime": 1755275047000
     },
     {
       "animeTitle": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
@@ -10628,23 +9766,23 @@
     {
       "animeTitle": "Dandadan 2nd Season",
       "episode": 7,
+      "page": "JKAnime",
+      "oldTime": 1755190000000,
+      "newTime": 1755193069000
+    },
+    {
+      "animeTitle": "Dandadan 2nd Season",
+      "episode": 7,
       "page": "AnimeAV1",
       "oldTime": 1755189560000,
-      "newTime": 1755190000000
+      "newTime": 1755193069000
     },
     {
       "animeTitle": "Dandadan 2nd Season",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755189861000,
-      "newTime": 1755190000000
-    },
-    {
-      "animeTitle": "Dandadan 2nd Season",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755193069000,
-      "newTime": 1755190000000
+      "newTime": 1755193069000
     },
     {
       "animeTitle": "Dandadan 2nd Season",
@@ -10929,16 +10067,16 @@
     {
       "animeTitle": "Bad Girl",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755422097000,
-      "newTime": 1755420440000
+      "page": "AnimeAV1",
+      "oldTime": 1755420440000,
+      "newTime": 1755422097000
     },
     {
       "animeTitle": "Bad Girl",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755420594000,
-      "newTime": 1755420440000
+      "newTime": 1755422097000
     },
     {
       "animeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
@@ -11097,16 +10235,16 @@
     {
       "animeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755421853000,
-      "newTime": 1755420257000
+      "page": "AnimeAV1",
+      "oldTime": 1755420257000,
+      "newTime": 1755421853000
     },
     {
       "animeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755420289000,
-      "newTime": 1755420257000
+      "newTime": 1755421853000
     },
     {
       "animeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
@@ -11545,16 +10683,16 @@
     {
       "animeTitle": "Koujo Denka no Kateikyoushi",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755421975000,
-      "newTime": 1755420196000
+      "page": "AnimeAV1",
+      "oldTime": 1755420196000,
+      "newTime": 1755421975000
     },
     {
       "animeTitle": "Koujo Denka no Kateikyoushi",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755420411000,
-      "newTime": 1755420196000
+      "newTime": 1755421975000
     },
     {
       "animeTitle": "Kijin Gentoushou",
@@ -13183,23 +12321,23 @@
     {
       "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
       "episode": 7,
+      "page": "JKAnime",
+      "oldTime": 1755278248000,
+      "newTime": 1755282247000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 7,
       "page": "AnimeAV1",
       "oldTime": 1755277829000,
-      "newTime": 1755278248000
+      "newTime": 1755282247000
     },
     {
       "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755279363000,
-      "newTime": 1755278248000
-    },
-    {
-      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755282247000,
-      "newTime": 1755278248000
+      "newTime": 1755282247000
     },
     {
       "animeTitle": "Arknights: Rise from Ember",
@@ -13407,23 +12545,23 @@
     {
       "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
       "episode": 7,
+      "page": "AnimeFenix",
+      "oldTime": 1755284047000,
+      "newTime": 1755335239000
+    },
+    {
+      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "episode": 7,
       "page": "AnimeAV1",
       "oldTime": 1755334338000,
-      "newTime": 1755284047000
+      "newTime": 1755335239000
     },
     {
       "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755334369000,
-      "newTime": 1755284047000
-    },
-    {
-      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-      "episode": 7,
-      "page": "JKAnime",
-      "oldTime": 1755335239000,
-      "newTime": 1755284047000
+      "newTime": 1755335239000
     },
     {
       "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
@@ -13561,23 +12699,23 @@
     {
       "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
       "episode": 7,
+      "page": "AnimeAV1",
+      "oldTime": 1755277229000,
+      "newTime": 1755281049000
+    },
+    {
+      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
+      "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755277262000,
-      "newTime": 1755277229000
+      "newTime": 1755281049000
     },
     {
       "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
       "episode": 7,
       "page": "JKAnime",
       "oldTime": 1755278309000,
-      "newTime": 1755277229000
-    },
-    {
-      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755281049000,
-      "newTime": 1755277229000
+      "newTime": 1755281049000
     },
     {
       "animeTitle": "Dr. Stone: Science Future",
@@ -15472,9 +14610,9 @@
     {
       "animeTitle": "Kaoru Hana wa Rin to Saku",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755422158000,
-      "newTime": 1755420501000
+      "page": "AnimeAV1",
+      "oldTime": 1755420501000,
+      "newTime": 1755422158000
     },
     {
       "animeTitle": "Ame to Kimi to",
@@ -15633,16 +14771,16 @@
     {
       "animeTitle": "Ame to Kimi to",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755422036000,
-      "newTime": 1755420379000
+      "page": "AnimeAV1",
+      "oldTime": 1755420379000,
+      "newTime": 1755422036000
     },
     {
       "animeTitle": "Ame to Kimi to",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755420472000,
-      "newTime": 1755420379000
+      "newTime": 1755422036000
     },
     {
       "animeTitle": "Hikaru ga Shinda Natsu",
@@ -15801,16 +14939,16 @@
     {
       "animeTitle": "Hikaru ga Shinda Natsu",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755421914000,
-      "newTime": 1755420318000
+      "page": "AnimeAV1",
+      "oldTime": 1755420318000,
+      "newTime": 1755421914000
     },
     {
       "animeTitle": "Hikaru ga Shinda Natsu",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755420350000,
-      "newTime": 1755420318000
+      "newTime": 1755421914000
     },
     {
       "animeTitle": "Fermat no Ryouri",
@@ -15941,16 +15079,16 @@
     {
       "animeTitle": "Fermat no Ryouri",
       "episode": 6,
-      "page": "AnimeFenix",
-      "oldTime": 1755421670000,
-      "newTime": 1755420135000
+      "page": "AnimeAV1",
+      "oldTime": 1755420135000,
+      "newTime": 1755421670000
     },
     {
       "animeTitle": "Fermat no Ryouri",
       "episode": 6,
       "page": "AnimeFLV",
       "oldTime": 1755420533000,
-      "newTime": 1755420135000
+      "newTime": 1755421670000
     },
     {
       "animeTitle": "9: Ruler's Crown",
@@ -16158,16 +15296,16 @@
     {
       "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
       "episode": 7,
-      "page": "AnimeFenix",
-      "oldTime": 1755421548000,
-      "newTime": 1755420013000
+      "page": "AnimeAV1",
+      "oldTime": 1755420013000,
+      "newTime": 1755421548000
     },
     {
       "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
       "episode": 7,
       "page": "AnimeFLV",
       "oldTime": 1755420228000,
-      "newTime": 1755420013000
+      "newTime": 1755421548000
     },
     {
       "animeTitle": "Karaoke Iko!",
@@ -16942,9 +16080,9 @@
     {
       "animeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
       "episode": 9,
-      "page": "AnimeFenix",
-      "oldTime": 1755421426000,
-      "newTime": 1755334460000
+      "page": "AnimeAV1",
+      "oldTime": 1755334460000,
+      "newTime": 1755421426000
     },
     {
       "animeTitle": "Hellsing Ultimate",
@@ -19399,16 +18537,16 @@
     {
       "animeTitle": "Kaijuu 8-gou 2nd Season",
       "episode": 5,
-      "page": "AnimeFenix",
-      "oldTime": 1755421731000,
-      "newTime": 1755420074000
+      "page": "AnimeAV1",
+      "oldTime": 1755420074000,
+      "newTime": 1755421731000
     },
     {
       "animeTitle": "Kaijuu 8-gou 2nd Season",
       "episode": 5,
       "page": "AnimeFLV",
       "oldTime": 1755420167000,
-      "newTime": 1755420074000
+      "newTime": 1755421731000
     },
     {
       "animeTitle": "Zoku Natsume Yuujinchou",
@@ -92486,23 +91624,23 @@
     {
       "animeTitle": "Yofukashi no Uta 2nd Season",
       "episode": 7,
+      "page": "JKAnime",
+      "oldTime": 1755274709000,
+      "newTime": 1755334430000
+    },
+    {
+      "animeTitle": "Yofukashi no Uta 2nd Season",
+      "episode": 7,
       "page": "AnimeFenix",
       "oldTime": 1755283747000,
-      "newTime": 1755274709000
+      "newTime": 1755334430000
     },
     {
       "animeTitle": "Yofukashi no Uta 2nd Season",
       "episode": 7,
       "page": "AnimeAV1",
       "oldTime": 1755334277000,
-      "newTime": 1755274709000
-    },
-    {
-      "animeTitle": "Yofukashi no Uta 2nd Season",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "oldTime": 1755334430000,
-      "newTime": 1755274709000
+      "newTime": 1755334430000
     },
     {
       "animeTitle": "Busu ni Hanataba wo.",
@@ -92661,23 +91799,23 @@
     {
       "animeTitle": "Busu ni Hanataba wo.",
       "episode": 7,
+      "page": "JKAnime",
+      "oldTime": 1755271713000,
+      "newTime": 1755334308000
+    },
+    {
+      "animeTitle": "Busu ni Hanataba wo.",
+      "episode": 7,
       "page": "AnimeAV1",
       "oldTime": 1755276329000,
-      "newTime": 1755271713000
+      "newTime": 1755334308000
     },
     {
       "animeTitle": "Busu ni Hanataba wo.",
       "episode": 7,
       "page": "AnimeFenix",
       "oldTime": 1755282847000,
-      "newTime": 1755271713000
-    },
-    {
-      "animeTitle": "Busu ni Hanataba wo.",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "oldTime": 1755334308000,
-      "newTime": 1755271713000
+      "newTime": 1755334308000
     },
     {
       "animeTitle": "Dandadan",
@@ -93172,23 +92310,23 @@
     {
       "animeTitle": "Shin Samurai-den Yaiba",
       "episode": 19,
-      "page": "AnimeFenix",
-      "oldTime": 1755421487000,
-      "newTime": 1755419952000
+      "page": "AnimeAV1",
+      "oldTime": 1755419952000,
+      "newTime": 1755421487000
     },
     {
       "animeTitle": "Shin Samurai-den Yaiba",
       "episode": 19,
       "page": "AnimeFLV",
       "oldTime": 1755420106000,
-      "newTime": 1755419952000
+      "newTime": 1755421487000
     },
     {
       "animeTitle": "Shin Samurai-den Yaiba",
       "episode": 19,
       "page": "JKAnime",
       "oldTime": 1755420487000,
-      "newTime": 1755419952000
+      "newTime": 1755421487000
     },
     {
       "animeTitle": "Anne Shirley",
@@ -93711,23 +92849,23 @@
     {
       "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
       "episode": 6,
+      "page": "AnimeFenix",
+      "oldTime": 1754599256000,
+      "newTime": 1755198407000
+    },
+    {
+      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+      "episode": 6,
       "page": "AnimeAV1",
       "oldTime": 1755194967000,
-      "newTime": 1754599256000
+      "newTime": 1755198407000
     },
     {
       "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
       "episode": 6,
       "page": "AnimeFLV",
       "oldTime": 1755195569000,
-      "newTime": 1754599256000
-    },
-    {
-      "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
-      "episode": 6,
-      "page": "JKAnime",
-      "oldTime": 1755198407000,
-      "newTime": 1754599256000
+      "newTime": 1755198407000
     },
     {
       "animeTitle": "Kamitsubaki-shi Kensetsuchuu.",
