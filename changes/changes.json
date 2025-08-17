@@ -5,10 +5,16 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
+      "animeTitle": "Dekin no Mogura",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dekin-no-mogura/7/"
+    },
+    {
       "animeTitle": "Gachiakuta",
       "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/gachiakuta-6"
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/gachiakuta/6/"
     }
   ],
   "updatedUrls": [],
