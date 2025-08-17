@@ -1,22 +1,14 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "~ Libre 3"
-    }
-  ],
-  "removedAnime": [
-    {
-      "animeTitle": "~ Libre 30"
-    }
-  ],
+  "addedAnime": [],
+  "removedAnime": [],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
       "episode": 7,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/jibaku-shounen-hanakokun-2-19"
+      "url": "https://www3.animeflv.net/ver/puniru-wa-kawaii-slime-19"
     }
   ],
   "updatedUrls": [],
