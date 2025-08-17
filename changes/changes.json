@@ -1,17 +1,24 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "~ Libre 30"
+      "animeTitle": "~ Libre 3"
     }
   ],
   "removedAnime": [
     {
-      "animeTitle": "~ Libre 3"
+      "animeTitle": "~ Libre 30"
     }
   ],
   "addedEpisodes": [],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/jibaku-shounen-hanakokun-2-19"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
