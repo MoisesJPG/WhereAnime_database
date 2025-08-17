@@ -1,13 +1,13 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [
+  "addedEpisodes": [
     {
       "animeTitle": "~ Libre 1",
       "episode": 1
     }
   ],
+  "removedEpisodes": [],
   "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
