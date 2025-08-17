@@ -1,19 +1,20 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "One Piece",
-      "episode": 1140
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "City The Animation",
+      "animeTitle": "Dekin no Mogura",
       "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/dekin-no-mogura-7"
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1140,
       "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/city-the-animation-7"
+      "url": "https://www3.animeflv.net/ver/one-piece-tv-1140"
     }
   ],
   "updatedUrls": [],
