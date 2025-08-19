@@ -3,41 +3,12 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Grand Blue Season 2",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Kijin Gentoushou",
-      "episode": 19
-    },
-    {
-      "animeTitle": "Summer Pockets",
-      "episode": 20
-    },
-    {
-      "animeTitle": "Sakamoto Days Part 2",
+      "animeTitle": "Kakkou no Iinazuke 2nd Season",
       "episode": 7
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Yami Shibai 15",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/yami-shibai-15/6/"
-    },
-    {
-      "animeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai/7/"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
