@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Osomatsu-san 4th Season",
-      "episode": 7
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/osomatsu-san-4th-season/7/"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
