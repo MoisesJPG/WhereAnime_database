@@ -1,287 +1,579 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "Attack on Titan 2nd Season"
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie: Kakusei no Houkou (Latino)"
     }
   ],
   "removedAnime": [
     {
-      "animeTitle": "Shingeki no Kyojin Season 2"
+      "animeTitle": "Shingeki no Kyojin Season 3 Part 1"
+    },
+    {
+      "animeTitle": "Attack on Titan 2nd Season"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou (Latino)"
     }
   ],
   "addedEpisodes": [
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 12
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 11
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 10
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 9
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 8
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 7
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 6
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 5
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 4
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 3
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
       "episode": 2
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie: Kakusei no Houkou (Latino)",
       "episode": 1
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Kakkou no Iinazuke 2nd Season",
-      "episode": 7,
+      "animeTitle": "Mattaku Saikin no Tantei to Kitara",
+      "episode": 8,
       "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/kakkou-no-iinazuke-season-2/7"
+      "url": "https://animeav1.com/media/mattaku-saikin-no-tantei-to-kitara/8"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Kakkou no Iinazuke 2nd Season",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/kakkou-no-iinazuke-season-2-7"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 12,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-12"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 12,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-12"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 12,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-12"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 11,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-11"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 11,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-11"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 11,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-11"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 10,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-10"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 10,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-10"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 10,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-10"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 9,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-9"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 9,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-9"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-9"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-8"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 8,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-8"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-8"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-7"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 7,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-7"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-7"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-6"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 6,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-6"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-6"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-5"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 5,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-5"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-5"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-4"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-4"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-4"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-3"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 3,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-3"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-3"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 2,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-2"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-3-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-3/episodio-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 3rd Season Part 1",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-3-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 12,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-12"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 12,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-12"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 12,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-12"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 11,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-11"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 11,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-11"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 11,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-11"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 10,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-10"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 10,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-10"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 10,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-10"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 9,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-9"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 9,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-9"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 9,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-9"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 8,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-8"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 8,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-8"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 8,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-8"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 7,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-7"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 7,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-7"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 7,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-7"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 6,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-6"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 6,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-6"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 6,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-6"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 5,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-5"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 5,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-5"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 5,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-5"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 4,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-4"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 4,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-4"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 4,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-4"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 3,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-3"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 3,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-3"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 3,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-3"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 2,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-2"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 2,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-2"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 2,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-2"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 1,
       "page": "AnimeFLV",
       "url": "https://www3.animeflv.net/ver/shingeki-no-kyojin-season-2-1"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 1,
       "page": "OtakusTV",
       "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2/episodio-1"
     },
     {
-      "animeTitle": "Attack on Titan 2nd Season",
+      "animeTitle": "Shingeki no Kyojin 2nd Season",
       "episode": 1,
       "page": "AnimeFenix",
       "url": "https://animefenix2.tv/ver/shingeki-no-kyojin-season-2-1"
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin Movie: Kakusei no Houkou (Latino)",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/shingeki-no-kyojin-season-2-movie-kakusei-no-houkou-latino/pelicula"
     }
   ],
   "updatedUrls": [],
