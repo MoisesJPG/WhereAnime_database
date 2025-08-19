@@ -1,14 +1,19 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Turkey!",
+      "episode": 7
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Necronomico no Cosmic Horror Show",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/necronomico-no-cosmic-horror-show-8"
+      "animeTitle": "Osomatsu-san 4th Season",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/osomatsu-san-4th-season/7"
     }
   ],
   "updatedUrls": [],
