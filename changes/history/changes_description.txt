@@ -1,180 +1,276 @@
 Auto commit: Changes to database:
 
 Animes: 
- + Se ha añadido el anime *Zhui Xu*
- + Se ha añadido el anime *Zhen Wu Dianfeng 2nd Season*
- + Se ha añadido el anime *Shu Tian Fu Mo Lu*
- + Se ha añadido el anime *Quanzhi Fashi VI*
- + Se ha añadido el anime *Jian Gu*
- + Se ha añadido el anime *You Shou Yan 2nd Season*
- + Se ha añadido el anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el anime *Dianqi Shaonu*
+ + Se ha añadido el anime *Shanhai Jihui*
+ + Se ha añadido el anime *Pi Zhe Lang Pi De Yang*
+ + Se ha añadido el anime *Bu Mie Shen Wang*
 
 Episodes: 
- + Se ha añadido el episodio *12* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *11* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *10* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *9* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *8* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *7* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *6* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *5* del anime *Cang Yuan Tu: Dongning Fu Fanwai Pian*
- + Se ha añadido el episodio *12* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *11* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *10* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *9* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *8* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *7* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *6* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *5* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *4* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *3* del anime *Feng Ling Yu Xiu 2nd Season: Tebie Pian*
- + Se ha añadido el episodio *0* del anime *Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2*
- + Se ha añadido el episodio *12* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *11* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *10* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *9* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *8* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *7* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *6* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *5* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *4* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el episodio *3* del anime *Biao Ren: Blades of the Guardians*
+ + Se ha añadido el episodio *12* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *11* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *10* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *9* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *8* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *7* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *6* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *5* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *4* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *3* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *2* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *1* del anime *You Shou Yan 2nd Season*
+ + Se ha añadido el episodio *12* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *11* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *10* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *9* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *8* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *7* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *6* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *5* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *4* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *3* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *2* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *1* del anime *Ququ Bucai, Zaixia Yeguai 2nd Season*
+ + Se ha añadido el episodio *12* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *11* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *10* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *9* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *8* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *7* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *6* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *5* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *4* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *3* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *2* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *1* del anime *Aishang Ta de Liyou Extra*
+ + Se ha añadido el episodio *12* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el episodio *11* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el episodio *12* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *11* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *10* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *9* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *8* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *7* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *6* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *5* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *4* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *3* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *2* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
+ + Se ha añadido el episodio *1* del anime *Ta Bu Dang Nuzhu Hen Duo Nian*
 
 Urls: 
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Ayakashi Triangle Sin Censura*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Psycho-Pass Movie: Providence*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *BanG Dream! It's MyGO!!!!!*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Horimiya: Piece*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Uchi no Kaisha no Chiisai Senpai no Hanashi*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Jitsu wa Ore, Saikyou deshita?*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Fate/strange Fake: Whispers of Dawn*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Masamune-kun no Revenge R*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Lv1 Maou to One Room Yuusha*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Black Clover: Mahou Tei no Ken*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Genjitsu no Yohane: Sunshine in the Mirror*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Biao Ren: Blades of the Guardians*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Bishoujo Senshi Sailor Moon Cosmos Movie*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Bishoujo Senshi Sailor Moon Cosmos Movie*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Seishun Buta Yarou wa Odekake Sister no Yume wo Minai*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Spy Kyoushitsu 2nd Season*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Tenchi Muyou! GXP: Paradise Shidou-hen*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Tenchi Muyou! GXP: Paradise Shidou-hen*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Tenchi Muyou! GXP: Paradise Shidou-hen*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Tenchi Muyou! GXP: Paradise Shidou-hen*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Tenchi Muyou! GXP: Paradise Shidou-hen*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Tenchi Muyou! GXP: Paradise Shidou-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Tousouchuu: Great Mission*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Uma Musume: Pretty Derby - Road to the Top*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Uma Musume: Pretty Derby - Road to the Top*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Uma Musume: Pretty Derby - Road to the Top*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Uma Musume: Pretty Derby - Road to the Top*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Otonari ni Ginga*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Isekai Shoukan wa Nidome desu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *World Dai Star*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Kimetsu no Yaiba: Katanakaji no Sato-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Kanojo ga Koushaku-tei ni Itta Riyuu*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Kimi wa Houkago Insomnia*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *The Marginal Service*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Majutsushi Orphen Hagure Tabi: Seiiki-hen*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Ousama Ranking: Yuuki no Takarabako*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Niehime to Kemono no Ou*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Iseleve*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Mashle*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Tonikaku Kawaii 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Edens Zero 2nd Season*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Ao no Orchestra*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Aiyou de Mishi*
+ + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
+ + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Kidou Senshi Gundam: Suisei no Majo Season 2*
