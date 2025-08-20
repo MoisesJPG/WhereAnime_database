@@ -1,14 +1,997 @@
 {
-  "addedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "Eromanga-sensei OVA"
+    },
+    {
+      "animeTitle": "Virtual-san wa Miteiru"
+    },
+    {
+      "animeTitle": "Koi to Uso OVA"
+    },
+    {
+      "animeTitle": "Wei, Kanjian Erduo La! 2"
+    },
+    {
+      "animeTitle": "Youjo Senki Movie: Manner Eizou"
+    },
+    {
+      "animeTitle": "Code Geass: Fukkatsu no Lelouch"
+    },
+    {
+      "animeTitle": "Hangyakusei Million Arthur 2nd Season"
+    }
+  ],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Fight League: Gear Gadget Generators",
+      "episode": 1
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/7/"
+    },
+    {
+      "animeTitle": "Onmyou Kaiten Re:Birth",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha/8/"
+      "url": "https://www.jkanime.net/onmyou-kaiten-rebirth/8/"
+    },
+    {
+      "animeTitle": "Oushitsu Kyoushi Heine Movie",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/oushitsu-kyoushi-heine-movie/1/"
+    },
+    {
+      "animeTitle": "High Score Girl: Extra Stage",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/high-score-girl-extra-stage/3/"
+    },
+    {
+      "animeTitle": "High Score Girl: Extra Stage",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/high-score-girl-extra-stage/2/"
+    },
+    {
+      "animeTitle": "High Score Girl: Extra Stage",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/high-score-girl-extra-stage/1/"
+    },
+    {
+      "animeTitle": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/psycho-pass-sinners-of-the-system-case2-first-guardian/1/"
+    },
+    {
+      "animeTitle": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/psycho-pass-sinners-of-the-system-case3-onshuu-no-kanata-ni/1/"
+    },
+    {
+      "animeTitle": "Mikadono Sanshimai wa Angai, Choroi.",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/mikadono-sanshimai-wa-angai-choroi/8/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/12/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/11/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/10/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/9/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/8/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/7/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/6/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/5/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/4/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/3/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/2/"
+    },
+    {
+      "animeTitle": "Hitoribocchi no Marumaru Seikatsu",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hitoribocchi-no-seikatsu/1/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/12/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/11/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/10/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/9/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/8/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/7/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/6/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/5/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/4/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/3/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/2/"
+    },
+    {
+      "animeTitle": "Piano no Mori (TV) 2nd Season",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/piano-no-mori-tv-2nd-season/1/"
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube (2025)",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/jigoku-sensei-nube-2025/8/"
+    },
+    {
+      "animeTitle": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen/12/"
+    },
+    {
+      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya/1/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/12/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/11/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/10/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/9/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/8/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/7/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/6/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/5/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/4/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/3/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/2/"
+    },
+    {
+      "animeTitle": "Kouya no Kotobuki Hikoutai",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kouya-no-kotobuki-hikoutai/1/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/12/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/11/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/10/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/9/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/8/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/7/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/6/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/5/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/4/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/3/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/2/"
+    },
+    {
+      "animeTitle": "Kemono Friends 2",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kemono-friends-2/1/"
+    },
+    {
+      "animeTitle": "Trinity Seven Movie 2: Tenkuu Toshokan to Shinku no Maou",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/trinity-seven-movie-2-tenkuu-toshokan-to-shinku-no-maou/1/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/12/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/11/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/10/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/9/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/8/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/7/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/6/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/5/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/4/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/3/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/2/"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/diamond-no-ace-act-ii/1/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/12/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/11/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/10/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/9/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/8/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/7/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/6/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/5/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/4/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/3/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/2/"
+    },
+    {
+      "animeTitle": "Senryuu Shoujo",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/senryuu-shoujo/1/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/12/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/11/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/10/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/9/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/8/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/7/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/6/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/5/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/4/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/3/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/2/"
+    },
+    {
+      "animeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/midara-na-ao-chan-wa-benkyou-ga-dekinai/1/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/12/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/11/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/10/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/9/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/8/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/7/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/6/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/5/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/4/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/3/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/2/"
+    },
+    {
+      "animeTitle": "Date A Live Ⅲ",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-live-iii/1/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/12/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/11/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/10/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/9/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/8/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/7/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/6/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/5/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/4/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/3/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/2/"
+    },
+    {
+      "animeTitle": "Mahou Shoujo Tokushusen Asuka",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahou-shoujo-tokushusen-asuka/1/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/12/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/11/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/10/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/9/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/8/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/7/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/6/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/5/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/4/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/3/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/2/"
+    },
+    {
+      "animeTitle": "Bermuda Triangle: Colorful Pastrale",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/bermuda-triangle-colorful-pastrale/1/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/12/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/11/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/10/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/9/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/8/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/7/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/6/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/5/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/4/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/3/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/2/"
+    },
+    {
+      "animeTitle": "Endro~!",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/endro/1/"
     }
   ],
   "updatedUrls": [],
