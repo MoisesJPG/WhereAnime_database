@@ -1,1120 +1,1198 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "Hakata Mentai!  Pirikarako-chan"
+      "animeTitle": "Tsurune: Kazemai Koukou Kyuudoubu - Yabai"
     },
     {
-      "animeTitle": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
+      "animeTitle": "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
     },
     {
-      "animeTitle": "Business Fish"
+      "animeTitle": "Shingeki no Kyojin Season 3 Part 2"
     },
     {
-      "animeTitle": "Quanzhi Gaoshou zhi Dianfeng Rongyao"
+      "animeTitle": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
     }
   ],
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 12
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 11
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 10
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 9
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 8
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 7
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 6
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 5
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 4
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 3
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 2
     },
     {
-      "animeTitle": "Kengan Ashura Part 2",
+      "animeTitle": "Ensemble Stars!! Tsuioku Selection Element",
       "episode": 1
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Bem Movie: Become Human",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Hanhua Riji 2nd Season",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Onmyou Kaiten Re:Birth",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Given Movie 1",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 0
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/violet-evergarden-gaiden-eien-to-jidou-shuki-ningyou/1/"
+      "animeTitle": "Onmyou Kaiten Re:Birth",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/onmyou-kaiten-rebirth-8"
     },
     {
-      "animeTitle": "Tenki no Ko",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tenki-no-ko/1/"
-    },
-    {
-      "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu/1/"
-    },
-    {
-      "animeTitle": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
-      "episode": 0,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/fategrand-order-zettai-majuu-sensen-babylonia/0/"
-    },
-    {
-      "animeTitle": "Tensei shitara Slime Datta Ken OVA",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/5/"
-    },
-    {
-      "animeTitle": "Tensei shitara Slime Datta Ken OVA",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/4/"
-    },
-    {
-      "animeTitle": "Tensei shitara Slime Datta Ken OVA",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/3/"
-    },
-    {
-      "animeTitle": "Tensei shitara Slime Datta Ken OVA",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/2/"
-    },
-    {
-      "animeTitle": "Tensei shitara Slime Datta Ken OVA",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/1/"
-    },
-    {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/12/"
+      "url": "https://jkanime.net/miru-tights/12/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/11/"
+      "url": "https://jkanime.net/miru-tights/11/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/10/"
+      "url": "https://jkanime.net/miru-tights/10/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/9/"
+      "url": "https://jkanime.net/miru-tights/9/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/8/"
+      "url": "https://jkanime.net/miru-tights/8/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/7/"
+      "url": "https://jkanime.net/miru-tights/7/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/6/"
+      "url": "https://jkanime.net/miru-tights/6/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/5/"
+      "url": "https://jkanime.net/miru-tights/5/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/4/"
+      "url": "https://jkanime.net/miru-tights/4/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/3/"
+      "url": "https://jkanime.net/miru-tights/3/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/2/"
+      "url": "https://jkanime.net/miru-tights/2/"
     },
     {
-      "animeTitle": "Cop Craft",
+      "animeTitle": "Miru Tights",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/cop-craft/1/"
+      "url": "https://jkanime.net/miru-tights/1/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/12/"
+      "url": "https://jkanime.net/7-seeds/12/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/11/"
+      "url": "https://jkanime.net/7-seeds/11/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/10/"
+      "url": "https://jkanime.net/7-seeds/10/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/9/"
+      "url": "https://jkanime.net/7-seeds/9/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/8/"
+      "url": "https://jkanime.net/7-seeds/8/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/7/"
+      "url": "https://jkanime.net/7-seeds/7/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/6/"
+      "url": "https://jkanime.net/7-seeds/6/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/5/"
+      "url": "https://jkanime.net/7-seeds/5/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/4/"
+      "url": "https://jkanime.net/7-seeds/4/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/3/"
+      "url": "https://jkanime.net/7-seeds/3/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/2/"
+      "url": "https://jkanime.net/7-seeds/2/"
     },
     {
-      "animeTitle": "Isekai Cheat Magician",
+      "animeTitle": "7 Seeds Latino",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/isekai-cheat-magician/1/"
+      "url": "https://jkanime.net/7-seeds/1/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fatestay-night-movie-heavens-feel-ii-lost-butterfly/1/"
+    },
+    {
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/12/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/12/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/11/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/11/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/10/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/10/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/9/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/9/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/8/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/8/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/7/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/7/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/6/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/6/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/5/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/5/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/4/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/4/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/3/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/3/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/2/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/2/"
     },
     {
-      "animeTitle": "Toaru Kagaku no Accelerator",
+      "animeTitle": "Karakai Jouzu no Takagi-san 2 Latino",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/toaru-kagaku-no-accelerator/1/"
+      "url": "https://jkanime.net/karakai-jouzu-no-takagi-san-2/1/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Cencoroll Connect",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/cencoroll-connect/1/"
+    },
+    {
+      "animeTitle": "Promare Latino",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/promare/1/"
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube (2025)",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/jigoku-sensei-nube-2025-8"
+    },
+    {
+      "animeTitle": "Hakubo",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hakubo/1/"
+    },
+    {
+      "animeTitle": "Kyochuu Rettou",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kyochuu-rettou/1/"
+    },
+    {
+      "animeTitle": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai/1/"
+    },
+    {
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/12/"
+      "url": "https://jkanime.net/starmyu-3rd-season/12/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/11/"
+      "url": "https://jkanime.net/starmyu-3rd-season/11/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/10/"
+      "url": "https://jkanime.net/starmyu-3rd-season/10/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/9/"
+      "url": "https://jkanime.net/starmyu-3rd-season/9/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/8/"
+      "url": "https://jkanime.net/starmyu-3rd-season/8/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/7/"
+      "url": "https://jkanime.net/starmyu-3rd-season/7/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/6/"
+      "url": "https://jkanime.net/starmyu-3rd-season/6/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/5/"
+      "url": "https://jkanime.net/starmyu-3rd-season/5/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/4/"
+      "url": "https://jkanime.net/starmyu-3rd-season/4/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/3/"
+      "url": "https://jkanime.net/starmyu-3rd-season/3/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/2/"
+      "url": "https://jkanime.net/starmyu-3rd-season/2/"
     },
     {
-      "animeTitle": "Try Knights",
+      "animeTitle": "Starmyu 3rd Season",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/try-knights/1/"
+      "url": "https://jkanime.net/starmyu-3rd-season/1/"
     },
     {
-      "animeTitle": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/fategrand-order-zettai-majuu-sensen-babylonia-initium-iter/1/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/11/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/10/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/9/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/8/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/7/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/6/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/5/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/4/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/3/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/2/"
-    },
-    {
-      "animeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/1/"
-    },
-    {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/12/"
+      "url": "https://jkanime.net/sounan-desu-ka/12/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/11/"
+      "url": "https://jkanime.net/sounan-desu-ka/11/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/10/"
+      "url": "https://jkanime.net/sounan-desu-ka/10/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/9/"
+      "url": "https://jkanime.net/sounan-desu-ka/9/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/8/"
+      "url": "https://jkanime.net/sounan-desu-ka/8/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/7/"
+      "url": "https://jkanime.net/sounan-desu-ka/7/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/6/"
+      "url": "https://jkanime.net/sounan-desu-ka/6/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/5/"
+      "url": "https://jkanime.net/sounan-desu-ka/5/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/4/"
+      "url": "https://jkanime.net/sounan-desu-ka/4/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/3/"
+      "url": "https://jkanime.net/sounan-desu-ka/3/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/2/"
+      "url": "https://jkanime.net/sounan-desu-ka/2/"
     },
     {
-      "animeTitle": "Senki Zesshou Symphogear XV",
+      "animeTitle": "Sounan Desu ka?",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/senki-zesshou-symphogear-xv/1/"
+      "url": "https://jkanime.net/sounan-desu-ka/1/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/12/"
+      "url": "https://jkanime.net/tejina-senpai/12/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/11/"
+      "url": "https://jkanime.net/tejina-senpai/11/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/10/"
+      "url": "https://jkanime.net/tejina-senpai/10/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/9/"
+      "url": "https://jkanime.net/tejina-senpai/9/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/8/"
+      "url": "https://jkanime.net/tejina-senpai/8/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/7/"
+      "url": "https://jkanime.net/tejina-senpai/7/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/6/"
+      "url": "https://jkanime.net/tejina-senpai/6/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/5/"
+      "url": "https://jkanime.net/tejina-senpai/5/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/4/"
+      "url": "https://jkanime.net/tejina-senpai/4/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/3/"
+      "url": "https://jkanime.net/tejina-senpai/3/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/2/"
+      "url": "https://jkanime.net/tejina-senpai/2/"
     },
     {
-      "animeTitle": "Nakanohito Genome [Jikkyouchuu]",
+      "animeTitle": "Tejina-senpai",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/nakanohito-genome-jikkyouchuu/1/"
+      "url": "https://jkanime.net/tejina-senpai/1/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/12/"
+      "url": "https://jkanime.net/kanata-no-astra/12/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/11/"
+      "url": "https://jkanime.net/kanata-no-astra/11/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/10/"
+      "url": "https://jkanime.net/kanata-no-astra/10/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/9/"
+      "url": "https://jkanime.net/kanata-no-astra/9/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/8/"
+      "url": "https://jkanime.net/kanata-no-astra/8/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/7/"
+      "url": "https://jkanime.net/kanata-no-astra/7/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/6/"
+      "url": "https://jkanime.net/kanata-no-astra/6/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/5/"
+      "url": "https://jkanime.net/kanata-no-astra/5/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/4/"
+      "url": "https://jkanime.net/kanata-no-astra/4/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/3/"
+      "url": "https://jkanime.net/kanata-no-astra/3/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/2/"
+      "url": "https://jkanime.net/kanata-no-astra/2/"
     },
     {
-      "animeTitle": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "animeTitle": "Kanata no Astra",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka/1/"
+      "url": "https://jkanime.net/kanata-no-astra/1/"
     },
     {
-      "animeTitle": "Majimoji Rurumo: Kanketsu-hen",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/majimoji-rurumo-kanketsu-hen/2/"
-    },
-    {
-      "animeTitle": "Majimoji Rurumo: Kanketsu-hen",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/majimoji-rurumo-kanketsu-hen/1/"
-    },
-    {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/12/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/12/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/11/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/11/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/10/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/10/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/9/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/9/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/8/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/8/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/7/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/7/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/6/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/6/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/5/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/5/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/4/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/4/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/3/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/3/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/2/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/2/"
     },
     {
-      "animeTitle": "Kochouki: Wakaki Nobunaga",
+      "animeTitle": "Dumbbell Nan Kilo Moteru?",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/kochouki-wakaki-nobunaga/1/"
+      "url": "https://jkanime.net/dumbbell-nan-kilo-moteru/1/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/12/"
+    },
+    {
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/11/"
+    },
+    {
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/10/"
+    },
+    {
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/9/"
+    },
+    {
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/8/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/8/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/7/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/7/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/6/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/6/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/5/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/5/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/4/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/4/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/3/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/3/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/2/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/2/"
     },
     {
-      "animeTitle": "Mo Dao Zu Shi: Xian Yun Pian",
+      "animeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/mo-dao-zu-shi-xian-yun-pian/1/"
+      "url": "https://jkanime.net/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai/1/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/12/"
+    },
+    {
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/11/"
+    },
+    {
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/10/"
+    },
+    {
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/9/"
+    },
+    {
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/8/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/8/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/7/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/7/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/6/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/6/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/5/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/5/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/4/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/4/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/3/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/3/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/2/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/2/"
     },
     {
-      "animeTitle": "Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi",
+      "animeTitle": "Araburu Kisetsu no Otome-domo yo.",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/yubisaki-kara-no-honki-no-netsujou-osananajimi-wa-shouboushi/1/"
+      "url": "https://jkanime.net/araburu-kisetsu-no-otome-domo-yo/1/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/12/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/11/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/10/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/9/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/8/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/7/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/6/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/5/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/4/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/3/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/2/"
+    },
+    {
+      "animeTitle": "Granbelm",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/granbelm/1/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/12/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/11/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/10/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/9/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/8/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/7/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/6/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/5/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/4/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/3/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/2/"
+    },
+    {
+      "animeTitle": "Joshikousei no Mudazukai",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/joshikousei-no-mudazukai/1/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/12/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/11/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/10/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/9/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/8/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/7/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/6/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/5/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/4/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/3/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/2/"
+    },
+    {
+      "animeTitle": "Re:Stage! Dream Days♪",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/restage-dream-days/1/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/12/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/11/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/10/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/9/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/8/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/7/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/6/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/5/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/4/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/3/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/2/"
+    },
+    {
+      "animeTitle": "Katsute Kami Datta Kemono-tachi e",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/katsute-kami-datta-kemono-tachi-e/1/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/12/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/11/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/10/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/9/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/8/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/7/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/6/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/5/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/4/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/3/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/2/"
+    },
+    {
+      "animeTitle": "Yami Shibai 7",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yami-shibai-7/1/"
     }
   ],
   "updatedUrls": [],
