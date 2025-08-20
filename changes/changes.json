@@ -1,19 +1,26 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Turkey!",
-      "episode": 7
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
+      "animeTitle": "Turkey!",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/turkey/7/"
+    },
+    {
+      "animeTitle": "Turkey!",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/turkey-7"
+    },
+    {
       "animeTitle": "Osomatsu-san 4th Season",
       "episode": 7,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/osomatsu-san-4th-season/7"
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/osomatsusan-4th-season-7"
     }
   ],
   "updatedUrls": [],
