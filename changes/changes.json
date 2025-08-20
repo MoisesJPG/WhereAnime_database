@@ -1,14 +1,1492 @@
 {
-  "addedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen season 2"
+    },
+    {
+      "animeTitle": "Quanzhi Fashi IV"
+    },
+    {
+      "animeTitle": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA"
+    },
+    {
+      "animeTitle": "Murenase! Seton Gakuen Special"
+    }
+  ],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 4th Season",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 4th Season",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 4th Season",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 4th Season",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube (2025)",
+      "episode": 8
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/12/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/11/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/10/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/9/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/8/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
       "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/dainanaoji-2nd-season-7"
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/7/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/6/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/5/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/4/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/3/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/2/"
+    },
+    {
+      "animeTitle": "Uma Musume: Umayon",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/umayon/1/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/12/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/11/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/10/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/9/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/8/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/7/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/6/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/5/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/4/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/3/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/2/"
+    },
+    {
+      "animeTitle": "The God of High School",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-god-of-high-school/1/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/12/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/11/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/10/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/9/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/8/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/7/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/6/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/5/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/4/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/3/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/2/"
+    },
+    {
+      "animeTitle": "Baki 2nd Season",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/baki-2nd-season/1/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/12/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/11/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/10/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/9/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/8/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/7/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/6/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/5/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/4/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/3/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/2/"
+    },
+    {
+      "animeTitle": "Olympia Kyklos",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/olympia-kyklos/1/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/12/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/11/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/10/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/9/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/8/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/7/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/6/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/5/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/4/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/3/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/2/"
+    },
+    {
+      "animeTitle": "Great Pretender",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/great-pretender/1/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/12/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/11/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/10/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/9/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/8/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/7/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/6/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/5/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/4/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/3/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/2/"
+    },
+    {
+      "animeTitle": "Ninja Collection",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ninja-collection/1/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/12/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/11/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/10/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/9/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/8/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/7/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/6/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/5/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/4/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/3/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/2/"
+    },
+    {
+      "animeTitle": "Strike the Blood IV",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/strike-the-blood-iv/1/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/12/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/11/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/10/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/9/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/8/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/7/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/6/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/5/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/4/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/3/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/2/"
+    },
+    {
+      "animeTitle": "Kitsutsuki Tanteidokoro",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kitsutsuki-tanteidokoro/1/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/12/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/11/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/10/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/9/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/8/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/7/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/6/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/5/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/4/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/3/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/2/"
+    },
+    {
+      "animeTitle": "Enen no Shouboutai: Ni no Shou",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/enen-no-shouboutai-ni-no-shou/1/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/12/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/11/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/10/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/9/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/8/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/7/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/6/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/5/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/4/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/3/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/2/"
+    },
+    {
+      "animeTitle": "Lapis Re:LiGHTs",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/lapis-relights/1/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/12/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/11/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/10/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/9/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/8/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/7/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/6/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/5/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/4/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/3/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/2/"
+    },
+    {
+      "animeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season/1/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/12/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/11/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/10/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/9/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/8/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/7/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/6/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/5/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/4/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/3/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/2/"
+    },
+    {
+      "animeTitle": "Deca-Dence",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/deca-dence/1/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/12/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/11/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/10/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/9/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/8/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/7/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/6/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/5/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/4/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/3/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/2/"
+    },
+    {
+      "animeTitle": "No Guns Life 2nd Season",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/no-guns-life-2nd-season/1/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/12/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/11/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/10/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/9/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/8/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/7/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/6/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/5/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/4/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/3/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/2/"
+    },
+    {
+      "animeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/1/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/12/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/11/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/10/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/9/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/8/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/7/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/6/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/5/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/4/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/3/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/2/"
+    },
+    {
+      "animeTitle": "Fruits Basket 2nd Season",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fruits-basket-2nd-season/1/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/12/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/11/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/10/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/9/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/8/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/7/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/6/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/5/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/4/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/3/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/2/"
+    },
+    {
+      "animeTitle": "Shadowverse (TV)",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shadowverse-tv/1/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/11/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/10/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/9/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/8/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/7/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/6/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/5/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/4/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/3/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/2/"
+    },
+    {
+      "animeTitle": "Fugou Keiji: Balance:Unlimited",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fugou-keiji-balanceunlimited/1/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/12/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/11/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/10/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/9/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/8/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/7/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/6/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/5/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/4/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/3/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/2/"
+    },
+    {
+      "animeTitle": "Zashiki Warashi no Tatami-chan",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/zashiki-warashi-no-tatami-chan/1/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/12/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/11/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/10/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/9/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/8/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/7/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/6/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/5/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/4/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/3/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/2/"
+    },
+    {
+      "animeTitle": "Shokugeki no Souma: Gou no Sara",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/shokugeki-no-souma-gou-no-sara/1/"
     }
   ],
   "updatedUrls": [],
