@@ -1,800 +1,1237 @@
 {
   "addedAnime": [
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season"
+      "animeTitle": "Hanhua Riji 2nd Season"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season"
-    }
-  ],
-  "removedAnime": [
+      "animeTitle": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!"
+    },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 3"
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
     }
   ],
+  "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 11
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 10
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 9
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 8
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 7
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 6
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 5
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 4
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 3
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
       "episode": 2
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
+      "animeTitle": "Tian Guan Cifu Special",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kimi wa Kanata",
       "episode": 1
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-7"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-7"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 7,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/7"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-6"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-6"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 6,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/6"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 5,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 4,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 4,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 3,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 3,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 3,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 4th Season",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 12,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-12"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 12,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-12"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 12,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-12"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/12/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 11,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-11"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 11,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-11"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 11,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-11"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/11/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 10,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-10"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 10,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-10"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-10"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/10/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 9,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-9"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 9,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-9"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 9,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-9"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/9/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-8"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 8,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-8"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-8"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/8/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-7"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 7,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-7"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-7"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/7/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/6/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-6"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 6,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-6"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-6"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/5/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 5,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/4/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 4,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/3/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 3,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 3,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/2/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 2,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/tate-no-yuusha-no-nariagari-season-3/1/"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-3-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3/episodio-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari 3th Season",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-3-1"
-    }
-  ],
-  "updatedUrls": [
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-7",
-      "oldTime": 1755707621000,
-      "newTime": 1755710799000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-7",
-      "oldTime": 1755695678000,
-      "newTime": 1755709153000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 6,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/6",
-      "oldTime": 1755090570000,
-      "newTime": 1752080290000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 5,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/5",
-      "oldTime": 1754484920000,
-      "newTime": 1752685090000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 4,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/4",
-      "oldTime": 1753882769000,
-      "newTime": 1753289890000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 3,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/3",
-      "oldTime": 1753277720000,
-      "newTime": 1753894690000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 2,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/2",
-      "oldTime": 1752670222000,
-      "newTime": 1754499490000
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 1,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/1",
-      "oldTime": 1752188706000,
-      "newTime": 1755104290000
-    }
-  ],
-  "removedUrls": [
-    {
       "animeTitle": "Tate no Yuusha no Nariagari Season 4",
       "episode": 7,
       "page": "AnimeAV1",
       "url": "https://animeav1.com/media/tate-no-yuusha-no-nariagari-season-4/7"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/7"
+    },
+    {
+      "animeTitle": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/toji-no-miko-kizamishi-issen-no-tomoshibi-ova/1/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/12/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/11/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/10/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/9/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/8/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/7/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
+      "url": "https://jkanime.net/beastars-2nd-season/6/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/5/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/4/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/3/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/2/"
+    },
+    {
+      "animeTitle": "Beastars 2nd Season",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/beastars-2nd-season/1/"
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/dokyuu-hentai-hxeros-ova/2/"
+    },
+    {
+      "animeTitle": "Dokyuu Hentai HxEros OVA",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/dokyuu-hentai-hxeros-ova/1/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/12/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/11/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/10/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/9/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/8/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/7/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
       "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-6"
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/6/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/5/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/4/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/3/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/2/"
+    },
+    {
+      "animeTitle": "Abciee Shuugyou Nikki",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/abciee-shuugyou-nikki/1/"
+    },
+    {
+      "animeTitle": "Date A Bullet: Nightmare or Queen",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/date-a-bullet-nightmare-or-queen/1/"
+    },
+    {
+      "animeTitle": "Seitokai Yakuindomo Movie 2",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/seitokai-yakuindomo-movie-2/1/"
+    },
+    {
+      "animeTitle": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fategrand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram/1/"
+    },
+    {
+      "animeTitle": "Josee to Tora to Sakana-tachi",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/josee-to-tora-to-sakana-tachi/1/"
+    },
+    {
+      "animeTitle": "Vlad Love",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/12/"
+    },
+    {
+      "animeTitle": "Vlad Love",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/11/"
+    },
+    {
+      "animeTitle": "Vlad Love",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/10/"
+    },
+    {
+      "animeTitle": "Vlad Love",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/9/"
+    },
+    {
+      "animeTitle": "Vlad Love",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/8/"
+    },
+    {
+      "animeTitle": "Vlad Love",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/7/"
+    },
+    {
+      "animeTitle": "Vlad Love",
       "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-6"
+      "page": "JKAnime",
+      "url": "https://jkanime.net/vlad-love/6/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 5,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 5,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-5"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Vlad Love",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
+      "url": "https://jkanime.net/vlad-love/5/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 4,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 4,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 4,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-4"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Vlad Love",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
+      "url": "https://jkanime.net/vlad-love/4/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 3,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 3,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 3,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-3"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Vlad Love",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
+      "url": "https://jkanime.net/vlad-love/3/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 2,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 2,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 2,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Vlad Love",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
+      "url": "https://jkanime.net/vlad-love/2/"
     },
     {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 1,
-      "page": "OtakusTV",
-      "url": "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4/episodio-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 1,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tate-no-yuusha-no-nariagari-season-4-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-2"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
-      "episode": 1,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tate-no-yuusha-no-nariagari-season-4-1"
-    },
-    {
-      "animeTitle": "Tate no Yuusha no Nariagari Season 4",
+      "animeTitle": "Vlad Love",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/tate-no-yuusha-no-nariagari-season-4/6/"
+      "url": "https://jkanime.net/vlad-love/1/"
+    },
+    {
+      "animeTitle": "Yes ka No ka Hanbun ka",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yes-ka-no-ka-hanbun-ka/1/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/12/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/11/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/10/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/9/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/8/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/7/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/6/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/5/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/4/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/3/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/2/"
+    },
+    {
+      "animeTitle": "I★Chu: Halfway Through the Idol",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ichu-halfway-through-the-idol/1/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/12/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/11/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/10/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/9/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/8/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/7/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/6/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/5/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/4/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/3/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/2/"
+    },
+    {
+      "animeTitle": "Hortensia Saga (TV)",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hortensia-saga-tv/1/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/12/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/11/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/10/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/9/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/8/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/7/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/6/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/5/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/4/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/3/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/2/"
+    },
+    {
+      "animeTitle": "Soukou Musume Senki",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/soukou-musume-senki/1/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/12/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/11/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/10/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/9/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/8/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/7/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/6/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/5/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/4/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/3/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/2/"
+    },
+    {
+      "animeTitle": "Show by Rock!! Stars!!",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/show-by-rock-stars/1/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/12/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/11/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/10/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/9/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/8/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/7/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/6/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/5/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/4/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/3/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/2/"
+    },
+    {
+      "animeTitle": "Yuru Camp△ Season 2",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/yuru-camp-season-2/1/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/12/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/11/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/10/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/9/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/8/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/7/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/6/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/5/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/4/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/3/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/2/"
+    },
+    {
+      "animeTitle": "Tenchi Souzou Design-bu",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tenchi-souzou-design-bu/1/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/8/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/7/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/6/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/5/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/4/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/3/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/2/"
+    },
+    {
+      "animeTitle": "Hataraku Saibou!!",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hataraku-saibou/1/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/12/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/11/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/10/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/9/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/8/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/7/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/6/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/5/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/4/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/3/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/2/"
+    },
+    {
+      "animeTitle": "Skate-Leading☆Stars",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/skate-leadingstars/1/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/12/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/11/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/10/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/9/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/8/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/7/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/6/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/5/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/4/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/3/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/2/"
+    },
+    {
+      "animeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/1/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/12/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/11/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/10/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/9/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/8/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/7/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/6/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/5/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/4/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/3/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/2/"
+    },
+    {
+      "animeTitle": "Uma Musume: Pretty Derby Season 2",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/uma-musume-pretty-derby-season-2/1/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/12/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/11/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/10/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/9/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/8/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/7/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/6/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/5/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/4/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/3/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/2/"
+    },
+    {
+      "animeTitle": "Urasekai Picnic",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/urasekai-picnic/1/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/12/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/11/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/10/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/9/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/8/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/7/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/6/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/5/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/4/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/3/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/2/"
+    },
+    {
+      "animeTitle": "Gekidol",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/gekidol/1/"
+    },
+    {
+      "animeTitle": "Fate/Grand Carnival",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fategrand-carnival/2/"
+    },
+    {
+      "animeTitle": "Fate/Grand Carnival",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/fategrand-carnival/1/"
     }
-  ]
+  ],
+  "updatedUrls": [],
+  "removedUrls": []
 }
