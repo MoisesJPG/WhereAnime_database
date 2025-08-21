@@ -1,116 +1,238 @@
 Auto commit: Changes to database:
 
 Animes: 
- + Se ha añadido el anime *Mazinger Z*
- + Se ha añadido el anime *Alps no Shoujo Heidi*
- + Se ha añadido el anime *Uchuu Kaizoku Captain Herlock*
- + Se ha añadido el anime *Ginga Tetsudou 999 (Movie)*
- + Se ha añadido el anime *Rose of Versailles*
- + Se ha añadido el anime *Wakakusa Monogatari*
- + Se ha añadido el anime *Tetsuwan Atom (1980)*
- + Se ha añadido el anime *Mahou no Princess Minky Momo*
- + Se ha añadido el anime *Macross*
- + Se ha añadido el anime *Capitan Tsubasa*
- + Se ha añadido el anime *Wata no Kuni Hoshi*
- + Se ha añadido el anime *fist of the north star*
- + Se ha añadido el anime *Kimagure Orange Road*
- + Se ha añadido el anime *Ronin Warriors*
- + Se ha añadido el anime *Ranma ½*
- + Se ha añadido el anime *Dragon Ball Z (Original)*
- + Se ha añadido el anime *Dragon Ball Z Movie 01: The Deadzone*
- + Se ha añadido el anime *Kiki's Delivery Service*
- + Se ha añadido el anime *Dragon Ball Z Movie 02: The World's Strongest*
 
 Episodes: 
- + Se ha añadido el episodio *12* del anime *Saint Seiya*
- + Se ha añadido el episodio *11* del anime *Saint Seiya*
- + Se ha añadido el episodio *10* del anime *Saint Seiya*
- + Se ha añadido el episodio *9* del anime *Saint Seiya*
- + Se ha añadido el episodio *8* del anime *Saint Seiya*
- + Se ha añadido el episodio *7* del anime *Saint Seiya*
- + Se ha añadido el episodio *6* del anime *Saint Seiya*
- + Se ha añadido el episodio *5* del anime *Saint Seiya*
- + Se ha añadido el episodio *4* del anime *Saint Seiya*
- + Se ha añadido el episodio *3* del anime *Saint Seiya*
- + Se ha añadido el episodio *2* del anime *Saint Seiya*
- + Se ha añadido el episodio *1* del anime *Saint Seiya*
- + Se ha añadido el episodio *12* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *11* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *10* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *9* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *8* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *7* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *6* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *5* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *4* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *3* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *2* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *1* del anime *Mobile Suit Gundam*
- + Se ha añadido el episodio *4* del anime *Dragon Ball*
- + Se ha añadido el episodio *3* del anime *Dragon Ball*
- + Se ha añadido el episodio *2* del anime *Dragon Ball*
- + Se ha añadido el episodio *1* del anime *Dragon Ball*
+ + Se ha añadido el episodio *12* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *11* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *10* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *9* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *8* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *7* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *6* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *5* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *4* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *3* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *2* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *1* del anime *Tenchi Muyo!*
+ + Se ha añadido el episodio *12* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *11* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *10* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *9* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *8* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *7* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *6* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *5* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *4* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *3* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *2* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *1* del anime *Fushigi Yuugi*
+ + Se ha añadido el episodio *12* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *11* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *10* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *9* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *8* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *7* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *6* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *5* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *4* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *3* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *2* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *1* del anime *Mobile Suit Gundam Wing*
+ + Se ha añadido el episodio *12* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *11* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *10* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *9* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *8* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *7* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *6* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *5* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *4* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *3* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *2* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *1* del anime *Street Fighter II V*
+ + Se ha añadido el episodio *1* del anime *Dragon Ball Z Movie 13: Wrath of the Dragon*
+ + Se ha añadido el episodio *12* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *11* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *10* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *9* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *8* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *7* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *6* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *5* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *4* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *3* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *2* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *1* del anime *Tenkuu no Escaflowne*
+ + Se ha añadido el episodio *12* del anime *B'tX*
+ + Se ha añadido el episodio *11* del anime *B'tX*
+ + Se ha añadido el episodio *10* del anime *B'tX*
+ + Se ha añadido el episodio *9* del anime *B'tX*
+ + Se ha añadido el episodio *8* del anime *B'tX*
+ + Se ha añadido el episodio *7* del anime *B'tX*
+ + Se ha añadido el episodio *6* del anime *B'tX*
+ + Se ha añadido el episodio *5* del anime *B'tX*
+ + Se ha añadido el episodio *4* del anime *B'tX*
+ + Se ha añadido el episodio *3* del anime *B'tX*
+ + Se ha añadido el episodio *2* del anime *B'tX*
+ + Se ha añadido el episodio *1* del anime *B'tX*
+ + Se ha añadido el episodio *4* del anime *Burn Up! W*
+ + Se ha añadido el episodio *3* del anime *Burn Up! W*
+ + Se ha añadido el episodio *2* del anime *Burn Up! W*
+ + Se ha añadido el episodio *1* del anime *Burn Up! W*
+ + Se ha añadido el episodio *12* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *11* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *10* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *9* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *8* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *7* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *6* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *5* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *4* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *3* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *2* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *1* del anime *Jigoku Sensei Nube*
+ + Se ha añadido el episodio *12* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *11* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *10* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *9* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *8* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *7* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *6* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *5* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *4* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *3* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *2* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *1* del anime *You're Under Arrest! (1996)*
+ + Se ha añadido el episodio *12* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *11* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *10* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *9* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *8* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *7* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *6* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *5* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *4* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *3* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *2* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *1* del anime *Shin Tenchi Muyo!*
+ + Se ha añadido el episodio *12* del anime *Devilman Lady*
+ + Se ha añadido el episodio *11* del anime *Devilman Lady*
+ + Se ha añadido el episodio *10* del anime *Devilman Lady*
+ + Se ha añadido el episodio *9* del anime *Devilman Lady*
+ + Se ha añadido el episodio *8* del anime *Devilman Lady*
+ + Se ha añadido el episodio *7* del anime *Devilman Lady*
+ + Se ha añadido el episodio *6* del anime *Devilman Lady*
+ + Se ha añadido el episodio *5* del anime *Devilman Lady*
+ + Se ha añadido el episodio *4* del anime *Devilman Lady*
+ + Se ha añadido el episodio *3* del anime *Devilman Lady*
+ + Se ha añadido el episodio *2* del anime *Devilman Lady*
+ + Se ha añadido el episodio *1* del anime *Devilman Lady*
+ + Se ha añadido el episodio *1* del anime *One Piece: Taose! Kaizoku Ganzack*
+ + Se ha añadido el episodio *12* del anime *Kare Kano*
+ + Se ha añadido el episodio *11* del anime *Kare Kano*
+ + Se ha añadido el episodio *10* del anime *Kare Kano*
+ + Se ha añadido el episodio *9* del anime *Kare Kano*
+ + Se ha añadido el episodio *8* del anime *Kare Kano*
+ + Se ha añadido el episodio *7* del anime *Kare Kano*
+ + Se ha añadido el episodio *6* del anime *Kare Kano*
+ + Se ha añadido el episodio *5* del anime *Kare Kano*
+ + Se ha añadido el episodio *4* del anime *Kare Kano*
+ + Se ha añadido el episodio *3* del anime *Kare Kano*
+ + Se ha añadido el episodio *2* del anime *Kare Kano*
+ + Se ha añadido el episodio *1* del anime *Kare Kano*
+ + Se ha añadido el episodio *12* del anime *Yoiko*
+ + Se ha añadido el episodio *11* del anime *Yoiko*
+ + Se ha añadido el episodio *10* del anime *Yoiko*
+ + Se ha añadido el episodio *9* del anime *Yoiko*
+ + Se ha añadido el episodio *8* del anime *Yoiko*
+ + Se ha añadido el episodio *7* del anime *Yoiko*
+ + Se ha añadido el episodio *6* del anime *Yoiko*
+ + Se ha añadido el episodio *5* del anime *Yoiko*
+ + Se ha añadido el episodio *4* del anime *Yoiko*
+ + Se ha añadido el episodio *3* del anime *Yoiko*
+ + Se ha añadido el episodio *2* del anime *Yoiko*
+ + Se ha añadido el episodio *1* del anime *Yoiko*
+ + Se ha añadido el episodio *4* del anime *Rurouni Kenshin: Tsuiokuhen*
+ + Se ha añadido el episodio *3* del anime *Rurouni Kenshin: Tsuiokuhen*
+ + Se ha añadido el episodio *2* del anime *Rurouni Kenshin: Tsuiokuhen*
+ + Se ha añadido el episodio *1* del anime *Rurouni Kenshin: Tsuiokuhen*
+ + Se ha añadido el episodio *4* del anime *Petshop of Horrors*
+ + Se ha añadido el episodio *3* del anime *Petshop of Horrors*
+ + Se ha añadido el episodio *2* del anime *Petshop of Horrors*
+ + Se ha añadido el episodio *1* del anime *Petshop of Horrors*
+ + Se ha añadido el episodio *12* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *11* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *10* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *9* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *8* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *7* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *6* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *5* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *4* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *3* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *2* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *1* del anime *Digimon Adventure*
+ + Se ha añadido el episodio *12* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *11* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *10* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *9* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *8* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *7* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *6* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *5* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *4* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *3* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *2* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *1* del anime *Kachou Ouji*
+ + Se ha añadido el episodio *1* del anime *Cardcaptor Sakura: The Movie*
+ + Se ha añadido el episodio *12* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *11* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *10* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *9* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *8* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *7* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *6* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *5* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *4* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *3* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *2* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *1* del anime *Koutetsu Tenshi Kurumi*
+ + Se ha añadido el episodio *12* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *11* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *10* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *9* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *8* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *7* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *6* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *5* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *4* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *3* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *2* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *1* del anime *Hunter x Hunter*
+ + Se ha añadido el episodio *12* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *11* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *10* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *9* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *8* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *7* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *6* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *5* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *4* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *3* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *2* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *1* del anime *Digimon Adventure 02*
+ + Se ha añadido el episodio *12* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *11* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *10* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *9* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *8* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *7* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *6* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *5* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *4* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *3* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *2* del anime *Yu-Gi-Oh! Duel Monsters*
+ + Se ha añadido el episodio *1* del anime *Yu-Gi-Oh! Duel Monsters*
 
 Urls: 
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Area 88*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Area 88*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Area 88*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Candy Candy*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Tonari no Totoro*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Hotaru no Haka*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Mobile Suit Zeta Gundam*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Mobile Suit Gundam ZZ*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *4* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *3* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *2* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Ashita no Joe 2*
- + Se ha añadido el enlace de *JKAnime* del episodio *1* del anime *Akira*
- + Se ha añadido el enlace de *JKAnime* del episodio *12* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *11* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *10* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *9* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *8* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *7* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *6* del anime *Dragon Ball*
- + Se ha añadido el enlace de *JKAnime* del episodio *5* del anime *Dragon Ball*

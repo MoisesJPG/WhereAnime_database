@@ -1,553 +1,934 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "Mazinger Z"
-    },
-    {
-      "animeTitle": "Alps no Shoujo Heidi"
-    },
-    {
-      "animeTitle": "Uchuu Kaizoku Captain Herlock"
-    },
-    {
-      "animeTitle": "Ginga Tetsudou 999 (Movie)"
-    },
-    {
-      "animeTitle": "Rose of Versailles"
-    },
-    {
-      "animeTitle": "Wakakusa Monogatari"
-    },
-    {
-      "animeTitle": "Tetsuwan Atom (1980)"
-    },
-    {
-      "animeTitle": "Mahou no Princess Minky Momo"
-    },
-    {
-      "animeTitle": "Macross"
-    },
-    {
-      "animeTitle": "Capitan Tsubasa"
-    },
-    {
-      "animeTitle": "Wata no Kuni Hoshi"
-    },
-    {
-      "animeTitle": "fist of the north star"
-    },
-    {
-      "animeTitle": "Kimagure Orange Road"
-    },
-    {
-      "animeTitle": "Ronin Warriors"
-    },
-    {
-      "animeTitle": "Ranma ½"
-    },
-    {
-      "animeTitle": "Dragon Ball Z (Original)"
-    },
-    {
-      "animeTitle": "Dragon Ball Z Movie 01: The Deadzone"
-    },
-    {
-      "animeTitle": "Kiki's Delivery Service"
-    },
-    {
-      "animeTitle": "Dragon Ball Z Movie 02: The World's Strongest"
-    }
-  ],
+  "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 12
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 11
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 10
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 9
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 8
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 7
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 6
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 5
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 4
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 3
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 2
     },
     {
-      "animeTitle": "Saint Seiya",
+      "animeTitle": "Tenchi Muyo!",
       "episode": 1
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 12
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 11
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 10
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 9
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 8
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 7
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 6
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 5
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 4
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 3
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 2
     },
     {
-      "animeTitle": "Mobile Suit Gundam",
+      "animeTitle": "Fushigi Yuugi",
       "episode": 1
     },
     {
-      "animeTitle": "Dragon Ball",
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Mobile Suit Gundam Wing",
       "episode": 4
     },
     {
-      "animeTitle": "Dragon Ball",
+      "animeTitle": "Mobile Suit Gundam Wing",
       "episode": 3
     },
     {
-      "animeTitle": "Dragon Ball",
+      "animeTitle": "Mobile Suit Gundam Wing",
       "episode": 2
     },
     {
-      "animeTitle": "Dragon Ball",
+      "animeTitle": "Mobile Suit Gundam Wing",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Street Fighter II V",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Dragon Ball Z Movie 13: Wrath of the Dragon",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Tenkuu no Escaflowne",
+      "episode": 1
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 12
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 11
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 10
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 9
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 8
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 7
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 6
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 5
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 4
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 3
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 2
+    },
+    {
+      "animeTitle": "B'tX",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Burn Up! W",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Burn Up! W",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Burn Up! W",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Burn Up! W",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Jigoku Sensei Nube",
+      "episode": 1
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 12
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 11
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 10
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 9
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 8
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 7
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 6
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 5
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 4
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 3
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 2
+    },
+    {
+      "animeTitle": "You're Under Arrest! (1996)",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Shin Tenchi Muyo!",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Devilman Lady",
+      "episode": 1
+    },
+    {
+      "animeTitle": "One Piece: Taose! Kaizoku Ganzack",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kare Kano",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Yoiko",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Rurouni Kenshin: Tsuiokuhen",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Rurouni Kenshin: Tsuiokuhen",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Rurouni Kenshin: Tsuiokuhen",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Rurouni Kenshin: Tsuiokuhen",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Petshop of Horrors",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Petshop of Horrors",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Petshop of Horrors",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Petshop of Horrors",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Digimon Adventure",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kachou Ouji",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Cardcaptor Sakura: The Movie",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Koutetsu Tenshi Kurumi",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Hunter x Hunter",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Digimon Adventure 02",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Yu-Gi-Oh! Duel Monsters",
       "episode": 1
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Area 88",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/area-88/3/"
-    },
-    {
-      "animeTitle": "Area 88",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/area-88/2/"
-    },
-    {
-      "animeTitle": "Area 88",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/area-88/1/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/12/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/11/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/10/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/9/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/8/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/7/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/6/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/5/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/4/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/3/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/2/"
-    },
-    {
-      "animeTitle": "Candy Candy",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/candy-candy/1/"
-    },
-    {
-      "animeTitle": "Tonari no Totoro",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/my-neighbor-totoro/1/"
-    },
-    {
-      "animeTitle": "Hotaru no Haka",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/grave-of-the-fireflies/1/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/12/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/11/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/10/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/9/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/8/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/7/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/6/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/5/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/4/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/3/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/2/"
-    },
-    {
-      "animeTitle": "Mobile Suit Zeta Gundam",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-zeta-gundam/1/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/12/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/11/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/10/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/9/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/8/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/7/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/6/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/5/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/4/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/3/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/2/"
-    },
-    {
-      "animeTitle": "Mobile Suit Gundam ZZ",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/mobile-suit-gundam-zz/1/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/12/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/11/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/10/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/9/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/8/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/7/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/6/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/5/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 4,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/4/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 3,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/3/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 2,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/2/"
-    },
-    {
-      "animeTitle": "Ashita no Joe 2",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/ashita-no-joe-2/1/"
-    },
-    {
-      "animeTitle": "Akira",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/akira/1/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/12/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/11/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/10/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/9/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/8/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/7/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/6/"
-    },
-    {
-      "animeTitle": "Dragon Ball",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dragon-ball/5/"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
