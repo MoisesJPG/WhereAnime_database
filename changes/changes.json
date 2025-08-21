@@ -1,14 +1,19 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Tsuihousha Shokudou e Youkoso!",
+      "episode": 8
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
       "animeTitle": "Dr. Stone: Science Future Part 2",
       "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/dr-stone-science-future-19"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/dr-stone-science-future-part-2-7"
     }
   ],
   "updatedUrls": [],
