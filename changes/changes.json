@@ -1,158 +1,100 @@
 {
-  "addedAnime": [],
-  "removedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "~ Libre 10"
+    },
+    {
+      "animeTitle": "~ Libre 11"
+    }
+  ],
+  "removedAnime": [
+    {
+      "animeTitle": "07-Ghost"
+    },
+    {
+      "animeTitle": "\"Oshi no Ko\" 2nd Season"
+    }
+  ],
   "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "07 Ghost",
-      "episode": 25,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/25/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 24,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/24/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 23,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/23/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 22,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/22/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 21,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/21/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 20,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/20/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 19,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/19/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 18,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/18/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 17,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/17/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 16,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/16/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 15,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/15/"
-    },
-    {
-      "animeTitle": "07 Ghost",
-      "episode": 14,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/14/"
-    },
-    {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 13,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/13/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/13/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 12,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/12/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/12/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 11,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/11/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/11/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 10,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/10/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/10/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 9,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/9/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/9/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/8/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/8/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 7,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/7/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/7/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 6,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/6/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/6/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 5,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/5/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/5/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/4/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/4/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/3/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/3/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/2/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/2/"
     },
     {
-      "animeTitle": "07 Ghost",
+      "animeTitle": "Oshi no Ko 2nd Season",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/07-ghost/1/"
+      "url": "https://jkanime.net/oshi-no-ko-2nd-season/1/"
     }
   ],
   "updatedUrls": [],
