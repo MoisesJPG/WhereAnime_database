@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Tougen Anki",
-      "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/tougen-anki-7"
+      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
+      "episode": 8
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
