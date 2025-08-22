@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Arknights: Rise from Ember",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/arknights-rise-from-ember/8/"
+      "animeTitle": "Tougen Anki",
+      "episode": 7
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
