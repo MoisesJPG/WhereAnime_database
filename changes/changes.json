@@ -1,14 +1,31 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Ginga Tokkyuu Milky☆Subway",
+      "episode": 8
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
+      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+      "episode": 8,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/long-zu-ii-daowangzhe-zhi-tong/8"
+    },
+    {
       "animeTitle": "Mizu Zokusei no Mahoutsukai",
       "episode": 7,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/mizu-zokusei-no-mahoutsukai-7"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mizu-zokusei-no-mahoutsukai-7"
+    },
+    {
+      "animeTitle": "Mizu Zokusei no Mahoutsukai",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/mizu-zokusei-no-mahoutsukai/7/"
     }
   ],
   "updatedUrls": [],
