@@ -1,14 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Nukitashi the Animation",
-      "episode": 6
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nukitashi-the-animation-6"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
