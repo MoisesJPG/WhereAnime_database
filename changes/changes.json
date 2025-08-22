@@ -1,16 +1,180 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/watarikun-no-xx-ga-houkai-sunzen-8"
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 8
     }
   ],
-  "updatedUrls": [],
-  "removedUrls": []
+  "removedEpisodes": [],
+  "addedUrls": [],
+  "updatedUrls": [
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/silent-witch-chinmoku-no-majo-no-kakushigoto/6/",
+      "oldTime": 1000,
+      "newTime": 1754607600000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 5,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/silent-witch-chinmoku-no-majo-no-kakushigoto/episodio-5",
+      "oldTime": 1754068709000,
+      "newTime": 1754064000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-5",
+      "oldTime": 1754067685000,
+      "newTime": 1754064000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-5",
+      "oldTime": 1754067058000,
+      "newTime": 1754064000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/silent-witch-chinmoku-no-majo-no-kakushigoto/5",
+      "oldTime": 1754067053000,
+      "newTime": 1754064000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/silent-witch-chinmoku-no-majo-no-kakushigoto/5/",
+      "oldTime": 2000,
+      "newTime": 1754064000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-4",
+      "oldTime": 1753638924000,
+      "newTime": 1753632000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 4,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/silent-witch-chinmoku-no-majo-no-kakushigoto/episodio-4",
+      "oldTime": 4000,
+      "newTime": 1753632000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-4",
+      "oldTime": 4000,
+      "newTime": 1753632000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/silent-witch-chinmoku-no-majo-no-kakushigoto/4/",
+      "oldTime": 3000,
+      "newTime": 1753632000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/silent-witch-chinmoku-no-majo-no-kakushigoto/4",
+      "oldTime": 2000,
+      "newTime": 1753632000000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/silent-witch-chinmoku-no-majo-no-kakushigoto/3/",
+      "oldTime": 4000,
+      "newTime": 1752919200000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/silent-witch-chinmoku-no-majo-no-kakushigoto/2/",
+      "oldTime": 5000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-2",
+      "oldTime": 2000,
+      "newTime": 1752249600000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/silent-witch-chinmoku-no-majo-no-kakushigoto/1",
+      "oldTime": 1751647821000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-1",
+      "oldTime": 1751647821000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 1,
+      "page": "OtakusTV",
+      "url": "https://www1.otakustv.com/anime/silent-witch-chinmoku-no-majo-no-kakushigoto/episodio-1",
+      "oldTime": 1751647821000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/silent-witch-chinmoku-no-majo-no-kakushigoto/1/",
+      "oldTime": 6000,
+      "newTime": 1751644800000
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-1",
+      "oldTime": 1000,
+      "newTime": 1751644800000
+    }
+  ],
+  "removedUrls": [
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-1"
+    },
+    {
+      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-2"
+    }
+  ]
 }
