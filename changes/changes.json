@@ -1,22 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Yofukashi no Uta 2nd Season",
-      "episode": 8,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/yofukashi-no-uta-season-2/8"
-    },
-    {
-      "animeTitle": "Busu ni Hanataba wo.",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/busu-ni-hanataba-wo-8"
+      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "episode": 8
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
