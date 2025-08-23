@@ -5,10 +5,16 @@
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Hikaru ga Shinda Natsu",
+      "animeTitle": "Nukitashi the Animation",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/nukitashi-the-animation/6/"
+    },
+    {
+      "animeTitle": "Bad Girl",
       "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/hikaru-ga-shinda-natsu-8"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/bad-girl-8"
     }
   ],
   "updatedUrls": [],
