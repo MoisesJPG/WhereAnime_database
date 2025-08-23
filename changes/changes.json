@@ -3,12 +3,19 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Koujo Denka no Kateikyoushi",
-      "episode": 8
+      "animeTitle": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+      "episode": 7
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Koujo Denka no Kateikyoushi",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/koujo-denka-no-kateikyoushi/8/"
+    }
+  ],
   "updatedUrls": [],
   "removedUrls": []
 }
