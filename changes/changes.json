@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Shin Samurai-den Yaiba",
-      "episode": 20,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/shin-samuraiden-yaiba-20"
+      "animeTitle": "Anne Shirley",
+      "episode": 19
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
