@@ -1,14 +1,25 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
+      "episode": 8
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-      "episode": 8,
+      "animeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
+      "episode": 10,
       "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru-8"
+      "url": "https://animefenix2.tv/ver/guimi-zhi-zhu-xiaochou-pian-10"
+    },
+    {
+      "animeTitle": "Kaijuu 8-gou 2nd Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/kaijuu-8gou-2nd-season-6"
     }
   ],
   "updatedUrls": [],
