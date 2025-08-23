@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Anne Shirley",
-      "episode": 19,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/anne-shirley-19"
+      "animeTitle": "Kaijuu 8-gou 2nd Season",
+      "episode": 6
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
