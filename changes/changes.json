@@ -1,25 +1,20 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
-      "episode": 8
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
-      "episode": 10,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/guimi-zhi-zhu-xiaochou-pian-10"
+      "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/kizetsu-yuusha-to-ansatsu-hime-8"
     },
     {
-      "animeTitle": "Kaijuu 8-gou 2nd Season",
-      "episode": 6,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/kaijuu-8gou-2nd-season-6"
+      "animeTitle": "Shin Samurai-den Yaiba",
+      "episode": 20,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shin-samurai-den-yaiba-20"
     }
   ],
   "updatedUrls": [],
