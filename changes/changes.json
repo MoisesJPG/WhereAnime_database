@@ -3,43 +3,12 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
-      "episode": 10
+      "animeTitle": "Shin Samurai-den Yaiba",
+      "episode": 20
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Tougen Anki",
-      "episode": 7,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/tougen-anki-7"
-    },
-    {
-      "animeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/silent-witch-chinmoku-no-majo-no-kakushigoto-8"
-    },
-    {
-      "animeTitle": "Watari-kun no xx ga Houkai Sunzen",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/watari-kun-no-xx-ga-houkai-sunzen-8"
-    },
-    {
-      "animeTitle": "Yofukashi no Uta 2nd Season",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/yofukashi-no-uta-season-2-8"
-    },
-    {
-      "animeTitle": "Busu ni Hanataba wo.",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/busu-ni-hanataba-wo-8"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
