@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Yuusha Party wo Tsuihou sareta Shiromadoushi",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/yuusha-party-o-tsuihou-sareta-shiro-madoushi-8"
+      "animeTitle": "Pokemon (Shinsaku Anime)",
+      "episode": 107
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
