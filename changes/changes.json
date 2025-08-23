@@ -3,23 +3,12 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Kaoru Hana wa Rin to Saku",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Hikaru ga Shinda Natsu",
+      "animeTitle": "Koujo Denka no Kateikyoushi",
       "episode": 8
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
-      "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/sono-bisque-doll-wa-koi-wo-suru-season-2-8"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
