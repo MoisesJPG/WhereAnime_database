@@ -1,19 +1,20 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-      "episode": 7
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Koujo Denka no Kateikyoushi",
+      "animeTitle": "Hikaru ga Shinda Natsu",
       "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/koujo-denka-no-kateikyoushi/8/"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hikaru-ga-shinda-natsu-8"
+    },
+    {
+      "animeTitle": "Fermat no Ryouri",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/fermat-no-ryouri/7"
     }
   ],
   "updatedUrls": [],
