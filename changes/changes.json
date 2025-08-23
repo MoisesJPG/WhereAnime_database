@@ -1,39 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Fermat no Ryouri",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Princession Orchestra",
-      "episode": 19
-    },
-    {
-      "animeTitle": "Detective Conan",
-      "episode": 1172
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Kizetsu Yuusha to Ansatsu Hime",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kizetsu-yuusha-to-ansatsu-hime/8/"
-    },
-    {
       "animeTitle": "Kaijuu 8-gou 2nd Season",
       "episode": 6,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/kaijuu-8-gou-2nd-season/6/"
-    },
-    {
-      "animeTitle": "Anne Shirley",
-      "episode": 19,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/anne-shirley/19/"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kaijuu-8-gou-2nd-season-6"
     }
   ],
   "updatedUrls": [],
