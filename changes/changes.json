@@ -1,18 +1,16 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Bad Girl",
-      "episode": 8
-    },
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
       "animeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-      "episode": 8
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai-8"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
