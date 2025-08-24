@@ -1,14 +1,25 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "To Be Hero X",
+      "episode": 21
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Nukitashi the Animation",
-      "episode": 6,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/nukitashi-the-animation-6"
+      "animeTitle": "Ame to Kimi to",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/ame-to-kimi-to/8/"
+    },
+    {
+      "animeTitle": "Shin Samurai-den Yaiba",
+      "episode": 20,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/shin-samurai-den-yaiba/20/"
     }
   ],
   "updatedUrls": [],
