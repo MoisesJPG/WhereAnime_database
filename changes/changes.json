@@ -1,31 +1,20 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Kimi to Idol Precure♪",
-      "episode": 29
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Nyaight of the Living Cat",
-      "episode": 8,
+      "animeTitle": "Witch Watch",
+      "episode": 21,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/nyaight-of-the-living-cat/8/"
+      "url": "https://www.jkanime.net/witch-watch/21/"
     },
     {
-      "animeTitle": "Jibaku Shounen Hanako-kun 2nd Season Part 2",
+      "animeTitle": "City The Animation",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/jibaku-shounen-hanako-kun-2-part-2/8/"
-    },
-    {
-      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/puniru-wa-kawaii-slime-2nd-season/8/"
+      "url": "https://www.jkanime.net/city-the-animation/8/"
     }
   ],
   "updatedUrls": [],
