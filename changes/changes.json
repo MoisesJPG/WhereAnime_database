@@ -1,14 +1,22 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
+    {
+      "animeTitle": "Hotel Inhumans",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/hotel-inhumans-8"
+    },
     {
       "animeTitle": "One Piece",
-      "episode": 1141
+      "episode": 1141,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/one-piece/1141"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
