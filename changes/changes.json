@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "Hotel Inhumans",
-      "episode": 8,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/hotel-inhumans/8"
+      "animeTitle": "One Piece",
+      "episode": 1141
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
