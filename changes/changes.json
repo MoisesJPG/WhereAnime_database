@@ -3,25 +3,16 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "To Be Hero X",
+      "animeTitle": "Witch Watch",
       "episode": 21
+    },
+    {
+      "animeTitle": "Jibaku Shounen Hanako-kun 2nd Season Part 2",
+      "episode": 8
     }
   ],
   "removedEpisodes": [],
-  "addedUrls": [
-    {
-      "animeTitle": "Ame to Kimi to",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/ame-to-kimi-to/8/"
-    },
-    {
-      "animeTitle": "Shin Samurai-den Yaiba",
-      "episode": 20,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/shin-samurai-den-yaiba/20/"
-    }
-  ],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
