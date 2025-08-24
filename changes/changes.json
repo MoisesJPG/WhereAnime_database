@@ -3,29 +3,29 @@
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "City The Animation",
-      "episode": 8
+      "animeTitle": "Kimi to Idol Precure♪",
+      "episode": 29
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Busamen Gachi Fighter",
-      "episode": 8,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/busamen-gachi-fighter-8"
-    },
-    {
-      "animeTitle": "Busamen Gachi Fighter",
-      "episode": 8,
-      "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/busamen-gachi-fighter/8"
-    },
-    {
-      "animeTitle": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "animeTitle": "Nyaight of the Living Cat",
       "episode": 8,
       "page": "JKAnime",
-      "url": "https://www.jkanime.net/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku/8/"
+      "url": "https://www.jkanime.net/nyaight-of-the-living-cat/8/"
+    },
+    {
+      "animeTitle": "Jibaku Shounen Hanako-kun 2nd Season Part 2",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/jibaku-shounen-hanako-kun-2-part-2/8/"
+    },
+    {
+      "animeTitle": "Puniru wa Kawaii Slime 2nd Season",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/puniru-wa-kawaii-slime-2nd-season/8/"
     }
   ],
   "updatedUrls": [],
