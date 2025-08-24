@@ -1,20 +1,19 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Hotel Inhumans",
+      "episode": 8
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Witch Watch",
-      "episode": 21,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/witch-watch/21/"
-    },
-    {
-      "animeTitle": "City The Animation",
+      "animeTitle": "Busamen Gachi Fighter",
       "episode": 8,
-      "page": "JKAnime",
-      "url": "https://www.jkanime.net/city-the-animation/8/"
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/busamen-gachi-fighter-8"
     }
   ],
   "updatedUrls": [],
