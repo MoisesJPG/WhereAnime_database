@@ -1,19 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
-    {
-      "animeTitle": "Hotel Inhumans",
-      "episode": 8
-    }
-  ],
+  "addedEpisodes": [],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Busamen Gachi Fighter",
+      "animeTitle": "Hotel Inhumans",
       "episode": 8,
-      "page": "AnimeFenix",
-      "url": "https://animefenix2.tv/ver/busamen-gachi-fighter-8"
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hotel-inhumans/8"
     }
   ],
   "updatedUrls": [],
