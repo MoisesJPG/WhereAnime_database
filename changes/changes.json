@@ -1,16 +1,14 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [],
-  "removedEpisodes": [],
-  "addedUrls": [
+  "addedEpisodes": [
     {
-      "animeTitle": "One Piece",
-      "episode": 1141,
-      "page": "AnimeFLV",
-      "url": "https://www3.animeflv.net/ver/one-piece-tv-1141"
+      "animeTitle": "Ruri no Houseki",
+      "episode": 8
     }
   ],
+  "removedEpisodes": [],
+  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
