@@ -1,14 +1,28 @@
 {
   "addedAnime": [],
   "removedAnime": [],
-  "addedEpisodes": [
+  "addedEpisodes": [],
+  "removedEpisodes": [],
+  "addedUrls": [
     {
-      "animeTitle": "Busamen Gachi Fighter",
-      "episode": 8
+      "animeTitle": "Dekin no Mogura",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dekin-no-mogura/8/"
+    },
+    {
+      "animeTitle": "Game Center Shoujo to Ibunka Kouryuu",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/game-center-shoujo-to-ibunka-kouryuu/7/"
+    },
+    {
+      "animeTitle": "Gachiakuta",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/gachiakuta/7/"
     }
   ],
-  "removedEpisodes": [],
-  "addedUrls": [],
   "updatedUrls": [],
   "removedUrls": []
 }
